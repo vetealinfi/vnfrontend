@@ -21,10 +21,10 @@
 					<div class="box-ingreso col-md-4 col-sm-6 col-md-offset-4 col-sm-offset-3" style="padding: 20px 15px;">
 						<form role="form" id="form-create-account" method="post" >
 							<div class="form-group">
-								<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Ingresa tu correo electrónico">
+								<input type="email" class="form-control" id="email" placeholder="Ingresa tu correo electrónico" required>
 							</div>
 							<div class="form-group">
-								<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Ingresa tu contraseña">
+								<input type="password" class="form-control" id="contraseña" placeholder="Ingresa tu contraseña" required>
 							</div>
 							<div class="row">
 								<div class="mb10l top col-md-5 col-sm-5 col-xs-5">

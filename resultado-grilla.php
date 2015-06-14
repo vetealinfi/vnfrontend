@@ -21,7 +21,7 @@
 						<div class="col-md-12 hidden-lg hidden-md hidden-sm">
 							<header><h1>Neumáticos 205/55 R16 en Santiago</h1></header>
                         </div>
-						<div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
+						<div class="col-lg-3 col-md-4 col-sm-5 col-xs-12">
 							<section id="sidebar">
 								<aside id="edit-search">
 									<header><h3>Buscador / Filtro</h3></header>
@@ -99,7 +99,7 @@
 								</aside> 
 							</section>
 						</div>
-						<div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
+						<div class="col-lg-9 col-md-8 col-sm-7 col-xs-12">
 							<div class="hidden-xs">
 								<header><h1>Neumáticos 205/55 R16 en Santiago</h1></header>
 							</div>
@@ -140,7 +140,7 @@
 										<div class="marco">
 											<div class="margen col-md-6 col-sm-6 col-xs-6">
 												<figure class="ribbon">30% dcto</figure>
-												<a href="ficha-producto.html"><img alt="" src="assets/img/properties/property-03.jpg"></a>
+												<a href="#" data-toggle="modal" data-target=".detalle"><img alt="" src="assets/img/properties/property-03.jpg"></a>
 											</div>
 											<div class="detalles col-md-6 col-sm-6 col-xs-6">
 												<header>
@@ -216,13 +216,91 @@
 					</div>
 				</div>
 			</div>
+			
+			<div class="modal fade detalle" role="dialog" aria-labelledby="gridSystemModalLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							<h4 class="center modal-title" id="gridSystemModalLabel">FICHA TÉCNICA</h4>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+									<section id="floor-plans">
+										<div class="floor-plans" style="text-align: center;margin-top: 20px;">
+											<img src="assets/img/properties/property-03.jpg" alt="" style="max-width: 100%;">
+										</div>
+									</section>
+									<div class="center">
+										<div class="ec-stars-wrapper">
+											<a href="#" data-value="1" title="Votar con 1 estrellas">&#9733;</a>
+											<a href="#" data-value="2" title="Votar con 2 estrellas">&#9733;</a>
+											<a href="#" data-value="3" title="Votar con 3 estrellas">&#9733;</a>
+											<a href="#" data-value="4" title="Votar con 4 estrellas">&#9733;</a>
+											<a href="#" data-value="5" title="Votar con 5 estrellas">&#9733;</a>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+									<section id="quick-summary" class="clearfix">
+										<dl>
+											<dt>MARCA</dt>
+											<dd><div class="property imagen-marca-ficha"><img alt="" src="assets/img/logo-bridgestone.jpg"></div></dd>
+											<dt>FAMILIA</dt>
+											<dd>Potenza</dd>
+											<dt>MODELO</dt>
+											<dd>RE760</dd>
+											<dt>MEDIDAS</dt>
+											<dd>205 55 R16</dd>
+											<dt>ÍNDICE DE CARGA/VEL.</dt>
+											<dd>H91</dd>
+											<dt>TIPO DE VEHÍCULO</dt>
+											<dd>
+												<div class="imagen-moto tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para moto"></div>
+												<div class="imagen-auto tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para auto"></div>
+												<div class="imagen-camioneta tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para camioneta"></div>
+												<div class="imagen-camion tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para camión"></div>
+												<div class="imagen-agricola tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático agrícola"></div>
+												<div class="imagen-forestal tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático forestal"></div>
+											<div class="imagen-horquilla tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para grúa horquilla"></div></dd>
+											<dt>ESTACIÓN</dt>
+											<dd>Toda estación</dd>
+											<dt>TIPO DE TERRENO</dt>
+											<dd>-</dd>
+											<dt>ANTIPINCHAZO</dt>
+											<dd>No</dd>
+											<dt>REFORZADO</dt>
+											<dd>Si</dd>
+											<dt>CLASIFICACIÓN DE CALIDAD</dt>
+											<dd>Desgaste: 340</dd>
+											<dd>Tracción: A</dd>
+											<dd>Temperatura: A</dd>
+										</dl>
+									</section>
+								</div>
+								<div class="row">
+									<div class="col-md-12 col-sm-12 col-xs-12">
+										<!-- /<div class="col-md-4 col-sm-4 col-xs-4">
+											<button type="submit" class="cerrar col-md-12 col-sm-12 col-xs-12" style="margin-bottom: 10px;" data-dismiss="modal" aria-label="Close">Cerrar</button>
+										</div> -->
+										<div class="col-md-12 col-sm-12 col-xs-12">
+											<button type="submit" class="buscar col-md-12 col-sm-12 col-xs-12" style="margin-bottom: 10px;" data-toggle="modal" data-target=".inicio">Cotizar</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+			</div><!-- /.modal -->
 			<!-- /.modal -->
 			<div class="modal fade inicio" role="dialog" aria-labelledby="gridSystemModalLabel" aria-hidden="true">
 				<div class="modal-dialog">
 					<div class="modal-content">
 						<div class="modal-header">
 							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-							<h4 class="center modal-title" id="gridSystemModalLabel">Ingresa para Cotizar</h4>
+							<h4 class="center modal-title" id="gridSystemModalLabel">INGRESA PARA COTIZAR</h4>
 						</div>
 						<div class="modal-body">
 							<div class="container-fluid">
@@ -265,83 +343,86 @@
 						</div>
 					</div><!-- /.modal-content -->
 				</div><!-- /.modal-dialog -->
-				</div><!-- /.modal -->
-				<div class="modal fade registrarse" role="dialog" aria-labelledby="gridSystemModalLabel" aria-hidden="true">
-					<div class="modal-dialog">
-						<div class="modal-content">
-							<div class="modal-header">
-								<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-								<h4 class="center modal-title" id="gridSystemModalLabel">Crear cuenta</h4>
-							</div>
-							<div class="modal-body">
-								<div class="container-fluid">
-									<div class="row">
-										<div class="col-md-12">
-											<form>
-												<div class="form-group">
-													<label for="exampleInputEmail1">Nombre</label>
-													<input type="name" class="form-control" id="exampleInputName1" placeholder="Ingresar nombre" required>
-												</div>
-												<div class="form-group">
-													<label for="exampleInputEmail1">Email</label>
-													<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Ingresar email" required>
-												</div>
-												<div class="form-group">
-													<label for="exampleInputEmail1">Repetir email</label>
-													<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Ingresar email" required>
-												</div>
-												<div class="form-group">
-													<label for="exampleInputPassword1">Teléfono</label>
-													<input type="password" class="form-control" id="exampleInputPhone1" placeholder="Ingresar teléfono" required>
-												</div>
-												<div class="form-group">
-													<label for="exampleInputPassword1">Crear contraseña</label>
-													<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Ingresar contraseña" required>
-												</div>												
-												<div class="row">
-													<div class="mb10l top col-md-12 col-sm-12 col-xs-12">
-														<div class="checkbox">
-															<label>
-																<input type="checkbox" checked>Recordarme
-															</label>
-														</div>
+			</div><!-- /.modal -->
+			<div class="modal fade registrarse" role="dialog" aria-labelledby="gridSystemModalLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							<h4 class="center modal-title" id="gridSystemModalLabel">CREAR CUENTA</h4>
+						</div>
+						<div class="modal-body">
+							<div class="container-fluid">
+								<div class="row">
+									<div class="col-md-12">
+										<form>
+											<div class="form-group">
+												<label for="exampleInputEmail1">Nombre</label>
+												<input type="name" class="form-control" id="exampleInputName1" placeholder="Ingresar nombre" required>
+											</div>
+											<div class="form-group">
+												<label for="exampleInputEmail1">Email</label>
+												<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Ingresar email" required>
+											</div>
+											<div class="form-group">
+												<label for="exampleInputEmail1">Repetir email</label>
+												<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Ingresar email" required>
+											</div>
+											<div class="form-group">
+												<label for="exampleInputPassword1">Teléfono</label>
+												<input type="password" class="form-control" id="exampleInputPhone1" placeholder="Ingresar teléfono" required>
+											</div>
+											<div class="form-group">
+												<label for="exampleInputPassword1">Crear contraseña</label>
+												<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Ingresar contraseña" required>
+											</div>												
+											<div class="row">
+												<div class="mb10l top col-md-12 col-sm-12 col-xs-12">
+													<div class="checkbox">
+														<label>
+															<input type="checkbox" checked>Recordarme
+														</label>
 													</div>
 												</div>
-												<button type="submit" class="buscar col-md-12"style="width: 100%;">Continuar cotizando</button>
-											</form>
+											</div>
+											<button type="submit" class="buscar col-md-12"style="width: 100%;">Continuar cotizando</button>
+										</form>
+										<div class="center borde-terminos col-md-12">
+											Al registrarme, declaro que soy mayor de edad y acepto las <a href="#">Políticas de Privacidad</a> y los <a href="#">Términos y Condiciones</a> de VentaNeumaticos.
 										</div>
 									</div>
 								</div>
 							</div>
-						</div><!-- /.modal-content -->
-					</div><!-- /.modal-dialog -->
-				</div><!-- /.modal -->
-				</div><!-- /.modal -->
-				<div class="modal fade cotizar" role="dialog" aria-labelledby="gridSystemModalLabel" aria-hidden="true">
-					<div class="modal-dialog">
-						<div class="modal-content">
-							<div class="modal-header">
-								<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-								<h4 class="center modal-title" id="gridSystemModalLabel">¿Cuántas unidades necesitas?</h4>
-							</div>
-							<div class="modal-body">
-								<div class="container-fluid">
-									<div class="row">
-										<div class="col-md-12">
-											<form>
-												<div class="form-group">
-													<label for="exampleInputEmail1">Cantidad a cotizar</label>
-													<input type="name" class="form-control" id="exampleInputName1" placeholder="Ingresar cantidad">
-												</div>
-												<button type="submit" class="buscar col-md-12"style="width: 100%;">Cotizar</button>
-											</form>
-										</div>
+						</div>
+					</div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+			</div><!-- /.modal -->
+			<div class="modal fade cotizar" role="dialog" aria-labelledby="gridSystemModalLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							<h4 class="center modal-title" id="gridSystemModalLabel">¿CUÁNTAS UNIDADES NECESITAS?</h4>
+						</div>
+						<div class="modal-body">
+							<div class="container-fluid">
+								<div class="row">
+									<div class="col-md-12">
+										<form>
+											<div class="form-group">
+												<input type="name" class="form-control" id="exampleInputName1" placeholder="Ingresa las unidades de neumáticos">
+											</div>
+											</p>Enviaremos una notificación al vendedor para que se contacte con ud.</p>
+											</p>Revisa todas tus cotizaciones realizadas en la sección "MI CUENTA".</p>
+											<button type="submit" class="buscar col-md-12"style="width: 100%;">Cotizar</button>
+										</form>
 									</div>
 								</div>
 							</div>
-						</div><!-- /.modal-content -->
-					</div><!-- /.modal-dialog -->
-				</div><!-- /.modal -->
+						</div>
+					</div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+			</div><!-- /.modal -->
 			<?php
 				include('footer.php');
 			?>

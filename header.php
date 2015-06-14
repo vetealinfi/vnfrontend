@@ -9,11 +9,14 @@
 							<div class="actions">
 								<a href="registrarse.php" class="promoted"><strong>Registrarse</strong></a>
 								<a href="ingresar.php">Ingresar</a>
+								<a href="mi-perfil.php">Mi cuenta</a>
+								<a href="ingresar.php">Mis cotizaciones</a>
+								<a href="ingresar.php">Salir</a>
 							</div>
 							<div class="language-bar">
-								<a href="#" class="active"><img src="assets/img/flags/gb.png" alt=""></a>
-								<a href="#"><img src="assets/img/flags/de.png" alt=""></a>
-								<a href="#"><img src="assets/img/flags/es.png" alt=""></a>
+								<a href="#" class="active"><img src="assets/img/flags/cl.png" alt=""></a>
+								<!-- <a href="#"><img src="assets/img/flags/de.png" alt=""></a>
+								<a href="#"><img src="assets/img/flags/es.png" alt=""></a> -->
 							</div>
 						</div>
 					</div>
@@ -23,7 +26,7 @@
 						<div class="row">
 							<div class="navbar-header col-lg-3 col-md-3 col-sm-5 col-xs-12">
 								<div class="navbar-brand nav"  id="brand">
-									<a href="index-google-map-fullscreen.html"><img src="assets/img/logo.png" alt="brand"></a>
+									<a href="index.php"><img src="assets/img/logo.png" alt="brand"></a>
 								</div>
 							</div>
 							<div class="col-lg-5 col-md-5 col-sm-7 hidden-xs">
@@ -52,12 +55,12 @@
 												</aside>
 											</div>
 										</li>
-										<li class="has-child"><a href="#">Vendedores</a>
+										<li class="has-child"><a href="lista-talleres.php">Vendedores</a>
 											<ul class="child-navigation">
-												<li><a href="property-detail.html">Property Detail</a></li>
-												<li><a href="properties-listing.html">Masonry Listing</a></li>
-												<li><a href="properties-listing-grid.html">Grid Listing</a></li>
-												<li><a href="properties-listing-lines.html">Lines Listing</a></li>
+												<li><a href="lista-talleres.php">Santiago</a></li>
+												<li><a href="lista-talleres.php">La Serena</a></li>
+												<li><a href="lista-talleres.php">Valparaíso</a></li>
+												<li><a href="lista-talleres.php">Temuco</a></li>
 											</ul>
 										</li>
 										<li class="has-child"><a href="#">Blog</a>

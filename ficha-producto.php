@@ -32,14 +32,19 @@
 						<div class="col-lg-9 col-md-12 col-sm-12">
 							<section id="property-detail">
 								<div class="row">
-									<div class="col-lg-12 col-md-12 col-sm-12">
+									<div class="col-lg-11 col-md-11 col-sm-12 col-xs-12">
 										<section id="property-detail">
 											<header class="property-title">
-												<h1>NEUMÁTICO BRIDGESTONE POTENZA RE760 205/55 R16</h1>
-												<!--<span class="actions">
-													<a href="#" class="fa fa-print"></a>
-													<a href="#" class="bookmark" data-bookmark-state="empty"><span class="title-add">Add to bookmark</span><span class="title-added">Added</span></a>
-												</span>-->
+												<h1>NEUMÁTICO BRIDGESTONE POTENZA RE760 205/55 R16 91W</h1>
+											</header>
+										</section>
+									</div>
+									<div class="col-lg-1 col-md-1 col-sm-12 col-xs-12">
+										<section id="property-detail">
+											<header class="property-title">
+												<span class="actions">
+													<a href="#" class="bookmark" data-bookmark-state="empty"><span class="title-add">agregar a favoritos</span><span class="title-added">Added</span></a>
+												</span>
 											</header>
 										</section>
 									</div>
@@ -69,14 +74,14 @@
 											<div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div></div>
 										<div class="redes">
 											<a href="https://twitter.com/share" class="twitter-share-button" data-via="vneumaticos" data-hashtags="VentaNeumaticos">Tweet</a>
-			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+											<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 										</div>
 										<div class="redes">
 											<div class="g-plus" data-action="share" data-annotation="bubble"></div>
 										</div>
 										<div class="redes">
 											<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: es_ES</script>
-			<script type="IN/Share" data-counter="right"></script>
+										<script type="IN/Share" data-counter="right"></script>
 										</div>
 										<div class="redes">
 											<a href="whatsapp://send" data-text="Te recomiendo visites esta página" data-href="" class="wa_btn wa_btn_s" style="display:none">Compartir</a>
@@ -89,15 +94,16 @@
 											<dl>
 												<dt>MARCA</dt>
 													<dd><div class="property imagen-marca-ficha"><img alt="" src="assets/img/logo-bridgestone.jpg"></div></dd>
-												<dt>FAMILIA/MODELO</dt>
+												<dt>FAMILIA</dt>
 													<dd>Potenza</dd>
+												<dt>MODELO</dt>
+													<dd>RE760</dd>
 												<dt>MEDIDAS</dt>
-													<dd>House</dd>
+													<dd>205 55 R16</dd>
 												<dt>ÍNDICE DE CARGA/VEL.</dt>
-													<dd>Sale</dd>
+													<dd>H91</dd>
 												<dt>TIPO DE VEHÍCULO</dt>
 													<dd>
-														<div class="rft tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático Runflat">RFT</div>
 														<div class="imagen-moto tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para moto"></div>
 														<div class="imagen-auto tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para auto"></div>
 														<div class="imagen-camioneta tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para camioneta"></div>
@@ -106,13 +112,13 @@
 														<div class="imagen-forestal tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático forestal"></div>
 														<div class="imagen-horquilla tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para grúa horquilla"></div></dd>
 												<dt>ESTACIÓN</dt>
-													<dd>3</dd>
+													<dd>Toda estación</dd>
 												<dt>TIPO DE TERRENO</dt>
-													<dd>2</dd>
+													<dd>-</dd>
 												<dt>ANTIPINCHAZO</dt>
-													<dd>2</dd>
+													<dd>No</dd>
 												<dt>REFORZADO</dt>
-													<dd>2</dd>
+													<dd>Si</dd>
 												<dt>CLASIFICACIÓN DE CALIDAD</dt>
 													<dd>Desgaste: 340</dd>
 													<dd>Tracción: A</dd>
@@ -125,14 +131,45 @@
 							</section>
 							<div class="row">
 								<div class="col-lg-12 col-md-8">
-									qweqwevew
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv 
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
 								</div>
-								<div class="ads col-md-4 hidden-lg">
-									<div class="ads-250">ads
+								<div class="ads">
+									<div class="col-md-4 col-sm-12 col-xs-12">
+										<div class="row">
+											<div class="ads-250 hidden-sm hidden-lg">ads</div>
+											<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
+										</div>
 									</div>
-									<div class="ads-250">ads
+									<div class="col-md-4 col-sm-12 col-xs-12">
+										<div class="row">
+											<div class="ads-250 hidden-sm hidden-lg">ads</div>
+											<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
+										</div>
 									</div>
-									<div class="ads-250">ads
+									<div class="col-md-4 col-sm-12 col-xs-12">
+										<div class="row">
+											<div class="ads-250 hidden-sm hidden-lg">ads</div>
+											<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
+										</div>
 									</div>
 								</div>
 							</div>

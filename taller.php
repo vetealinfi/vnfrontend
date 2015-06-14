@@ -89,168 +89,174 @@
 										<div class="row parrent media-body">
 											<div class="tab-content">
 												<div class="tab-pane active" id="tab1">
-													<div class="col-md-3 col-sm-12">
+													<div class="col-lg-3 col-md-4 col-sm-12">
 														<section id="sidebar">
 															<aside id="edit-search">
 																<header><h2>Buscador / Filtro</h2></header>
-																<div class="col-sm-4 col-md-12 col-lg-12"><img alt="" src="assets/img/medida.png" style="margin-top: 10px; margin-bottom: 10px; width: 100%;"></div>
-																<section id="description" class="hidden-lg hidden-md hidden-xs col-sm-8 col-lg-12">
-																	<p style="margin-top: 10px;">Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir.
-																	</p>
-																</section>
-																<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
-																	<div class="form-group">
-																		<select name="marcas" size="1" multiple>
-																			<option value="0" selected>Ancho</option>
-																			<option value="1">Bridgestone</option>
-																			<option value="2">Pirelli</option>
-																			<option value="3">Michelin</option>
-																			<option value="4">Continental</option>
-																			<option value="5">Firestone</option>
-																			<option value="6">Kumho</option>
-																			<option value="7">Continental</option>
-																			<option value="8">Maxxis</option>
-																			<option value="9">Hankook</option>
-																			<option value="10">Nexen</option>
-																			<option value="11">General Tire</option>
-																			<option value="12">Westlake</option>
-																			<option value="13">Dunlop</option>
-																			<option value="14">Yokohama</option>
-																			<option value="15">Cooper</option>
-																			<option value="16">Sumitomo</option>
-																			<option value="17">Bfgoodrich</option>
-																			<option value="18">Fuzion</option>
-																			<option value="19">Sonar</option>
-																			<option value="20">Goodride</option>
-																			<option value="21">Ling Long</option>
-																		</select>
+																<div class="row">
+																	<div class="col-lg-12 col-md-12 col-sm-6 col-xs-12">
+																		<img alt="" src="assets/img/medida.png" style="margin-top: 10px; margin-bottom: 10px; width: 100%;">
+																		<section id="description">
+																			<p style="margin-top: 10px;">Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir.
+																			</p>
+																		</section>
 																	</div>
-																	<div class="form-group">
-																		<select name="marcas" size="1" multiple>
-																			<option value="0" selected>Perfil</option>
-																			<option value="1">Bridgestone</option>
-																			<option value="2">Pirelli</option>
-																			<option value="3">Michelin</option>
-																			<option value="4">Continental</option>
-																			<option value="5">Firestone</option>
-																			<option value="6">Kumho</option>
-																			<option value="7">Continental</option>
-																			<option value="8">Maxxis</option>
-																			<option value="9">Hankook</option>
-																			<option value="10">Nexen</option>
-																			<option value="11">General Tire</option>
-																			<option value="12">Westlake</option>
-																			<option value="13">Dunlop</option>
-																			<option value="14">Yokohama</option>
-																			<option value="15">Cooper</option>
-																			<option value="16">Sumitomo</option>
-																			<option value="17">Bfgoodrich</option>
-																			<option value="18">Fuzion</option>
-																			<option value="19">Sonar</option>
-																			<option value="20">Goodride</option>
-																			<option value="21">Ling Long</option>
-																		</select>
+																	<div class="col-lg-12 col-md-12 col-sm-6 col-xs-12">
+																		<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
+																			<div class="form-group">
+																				<select name="marcas" size="1">
+																					<option value="0" selected>Ancho</option>
+																					<option value="1">Bridgestone</option>
+																					<option value="2">Pirelli</option>
+																					<option value="3">Michelin</option>
+																					<option value="4">Continental</option>
+																					<option value="5">Firestone</option>
+																					<option value="6">Kumho</option>
+																					<option value="7">Continental</option>
+																					<option value="8">Maxxis</option>
+																					<option value="9">Hankook</option>
+																					<option value="10">Nexen</option>
+																					<option value="11">General Tire</option>
+																					<option value="12">Westlake</option>
+																					<option value="13">Dunlop</option>
+																					<option value="14">Yokohama</option>
+																					<option value="15">Cooper</option>
+																					<option value="16">Sumitomo</option>
+																					<option value="17">Bfgoodrich</option>
+																					<option value="18">Fuzion</option>
+																					<option value="19">Sonar</option>
+																					<option value="20">Goodride</option>
+																					<option value="21">Ling Long</option>
+																				</select>
+																			</div>
+																			<div class="form-group">
+																				<select name="marcas" size="1">
+																					<option value="0" selected>Perfil</option>
+																					<option value="1">Bridgestone</option>
+																					<option value="2">Pirelli</option>
+																					<option value="3">Michelin</option>
+																					<option value="4">Continental</option>
+																					<option value="5">Firestone</option>
+																					<option value="6">Kumho</option>
+																					<option value="7">Continental</option>
+																					<option value="8">Maxxis</option>
+																					<option value="9">Hankook</option>
+																					<option value="10">Nexen</option>
+																					<option value="11">General Tire</option>
+																					<option value="12">Westlake</option>
+																					<option value="13">Dunlop</option>
+																					<option value="14">Yokohama</option>
+																					<option value="15">Cooper</option>
+																					<option value="16">Sumitomo</option>
+																					<option value="17">Bfgoodrich</option>
+																					<option value="18">Fuzion</option>
+																					<option value="19">Sonar</option>
+																					<option value="20">Goodride</option>
+																					<option value="21">Ling Long</option>
+																				</select>
+																			</div>
+																			<div class="form-group">
+																				<select name="marcas" size="1">
+																					<option value="0" selected>Aro</option>
+																					<option value="1">Bridgestone</option>
+																					<option value="2">Pirelli</option>
+																					<option value="3">Michelin</option>
+																					<option value="4">Continental</option>
+																					<option value="5">Firestone</option>
+																					<option value="6">Kumho</option>
+																					<option value="7">Continental</option>
+																					<option value="8">Maxxis</option>
+																					<option value="9">Hankook</option>
+																					<option value="10">Nexen</option>
+																					<option value="11">General Tire</option>
+																					<option value="12">Westlake</option>
+																					<option value="13">Dunlop</option>
+																					<option value="14">Yokohama</option>
+																					<option value="15">Cooper</option>
+																					<option value="16">Sumitomo</option>
+																					<option value="17">Bfgoodrich</option>
+																					<option value="18">Fuzion</option>
+																					<option value="19">Sonar</option>
+																					<option value="20">Goodride</option>
+																					<option value="21">Ling Long</option>
+																				</select>
+																			</div>
+																			<div class="form-group">
+																				<div class="price-range">
+																					<input id="price-input" type="text" name="price" value="1000;299000">
+																				</div>
+																			</div>
+																			<div class="form-group">
+																				<select name="marcas" size="1" multiple>
+																					<option value="0" selected>Todas las Marcas</option>
+																					<option value="1">Bridgestone</option>
+																					<option value="2">Pirelli</option>
+																					<option value="3">Michelin</option>
+																					<option value="4">Continental</option>
+																					<option value="5">Firestone</option>
+																					<option value="6">Kumho</option>
+																					<option value="7">Continental</option>
+																					<option value="8">Maxxis</option>
+																					<option value="9">Hankook</option>
+																					<option value="10">Nexen</option>
+																					<option value="11">General Tire</option>
+																					<option value="12">Westlake</option>
+																					<option value="13">Dunlop</option>
+																					<option value="14">Yokohama</option>
+																					<option value="15">Cooper</option>
+																					<option value="16">Sumitomo</option>
+																					<option value="17">Bfgoodrich</option>
+																					<option value="18">Fuzion</option>
+																					<option value="19">Sonar</option>
+																					<option value="20">Goodride</option>
+																					<option value="21">Ling Long</option>
+																				</select>
+																			</div>
+																			<div class="form-group">
+																				<select name="indice" size="1" multiple>
+																					<option value="0" selected>Todos Índices Carga/Velocidad</option>
+																					<option value="1">91H</option>
+																					<option value="2">91V</option>
+																					<option value="3">94W</option>
+																					<option value="4">89V</option>
+																					<option value="5">91W</option>
+																					<option value="6">H</option>
+																					<option value="7">91Y</option>
+																				</select>
+																			</div>
+																			<div class="form-group">
+																				<select name="especifico">
+																					<option value="">Neumáticos Específicos</option>
+																					<option value="1">Antipinchazos</option>
+																					<option value="2">No antipinchazos</option>
+																					<option value="3">Reforzados</option>
+																					<option value="4">No reforzados</option>
+																				</select>
+																			</div>
+																			<div class="form-group">
+																				<select name="Tipo de vehículo">
+																					<option value=""> Todos los tipos</option>
+																					<option value="1">Auto</option>
+																					<option value="2">Moto</option>
+																					<option value="3">Camioneta</option>
+																					<option value="4">Camión</option>
+																					<option value="5">Agrícola</option>
+																					<option value="4">Forestal</option>
+																					<option value="5">Bus</option>
+																					<option value="4">Grúa Horquilla</option>
+																					<option value="5">Maquinaria Pesada</option>
+																				</select>
+																			</div>
+																			<div class="form-group">
+																				<button type="submit" class="buscar">BUSCAR</button>
+																			</div>
+																		</form>
 																	</div>
-																	<div class="form-group">
-																		<select name="marcas" size="1" multiple>
-																			<option value="0" selected>Aro</option>
-																			<option value="1">Bridgestone</option>
-																			<option value="2">Pirelli</option>
-																			<option value="3">Michelin</option>
-																			<option value="4">Continental</option>
-																			<option value="5">Firestone</option>
-																			<option value="6">Kumho</option>
-																			<option value="7">Continental</option>
-																			<option value="8">Maxxis</option>
-																			<option value="9">Hankook</option>
-																			<option value="10">Nexen</option>
-																			<option value="11">General Tire</option>
-																			<option value="12">Westlake</option>
-																			<option value="13">Dunlop</option>
-																			<option value="14">Yokohama</option>
-																			<option value="15">Cooper</option>
-																			<option value="16">Sumitomo</option>
-																			<option value="17">Bfgoodrich</option>
-																			<option value="18">Fuzion</option>
-																			<option value="19">Sonar</option>
-																			<option value="20">Goodride</option>
-																			<option value="21">Ling Long</option>
-																		</select>
-																	</div>
-																	<div class="form-group">
-																		<div class="price-range">
-																			<input id="price-input" type="text" name="price" value="1000;299000">
-																		</div>
-																	</div>
-																	<div class="form-group">
-																		<select name="marcas" size="1" multiple>
-																			<option value="0" selected>Todas las Marcas</option>
-																			<option value="1">Bridgestone</option>
-																			<option value="2">Pirelli</option>
-																			<option value="3">Michelin</option>
-																			<option value="4">Continental</option>
-																			<option value="5">Firestone</option>
-																			<option value="6">Kumho</option>
-																			<option value="7">Continental</option>
-																			<option value="8">Maxxis</option>
-																			<option value="9">Hankook</option>
-																			<option value="10">Nexen</option>
-																			<option value="11">General Tire</option>
-																			<option value="12">Westlake</option>
-																			<option value="13">Dunlop</option>
-																			<option value="14">Yokohama</option>
-																			<option value="15">Cooper</option>
-																			<option value="16">Sumitomo</option>
-																			<option value="17">Bfgoodrich</option>
-																			<option value="18">Fuzion</option>
-																			<option value="19">Sonar</option>
-																			<option value="20">Goodride</option>
-																			<option value="21">Ling Long</option>
-																		</select>
-																	</div>
-																	<div class="form-group">
-																		<select name="indice" size="1" multiple>
-																			<option value="0" selected>Todos Índices Carga/Velocidad</option>
-																			<option value="1">91H</option>
-																			<option value="2">91V</option>
-																			<option value="3">94W</option>
-																			<option value="4">89V</option>
-																			<option value="5">91W</option>
-																			<option value="6">H</option>
-																			<option value="7">91Y</option>
-																		</select>
-																	</div>
-																	<div class="form-group">
-																		<select name="especifico">
-																			<option value="">Neumáticos Específicos</option>
-																			<option value="1">Antipinchazos</option>
-																			<option value="2">No antipinchazos</option>
-																			<option value="3">Reforzados</option>
-																			<option value="4">No reforzados</option>
-																		</select>
-																	</div>
-																	<div class="form-group">
-																		<select name="Tipo de vehículo">
-																			<option value=""> Todos los tipos</option>
-																			<option value="1">Auto</option>
-																			<option value="2">Moto</option>
-																			<option value="3">Camioneta</option>
-																			<option value="4">Camión</option>
-																			<option value="5">Agrícola</option>
-																			<option value="4">Forestal</option>
-																			<option value="5">Bus</option>
-																			<option value="4">Grúa Horquilla</option>
-																			<option value="5">Maquinaria Pesada</option>
-																		</select>
-																	</div>
-																	<div class="form-group">
-																		<button type="submit" class="buscar">BUSCAR</button>
-																	</div>
-																</form>
+																</div>
 															</aside>
 														</section>
 													</div>
-													<div class="col-md-9 col-sm-12">
+													<div class="col-lg-9 col-md-8 col-sm-12">
 														<section id="results">
 															<header><h2>Productos</h2></header>
 															<section id="search-filter">

@@ -24,7 +24,7 @@
 								<header><h2>Cuenta</h2></header>
 								<aside>
 									<ul class="sidebar-navigation">
-										<li class="active"><a href="profile.html"><i class="fa fa-user"></i><span>Perfil</span></a></li>
+										<li class="active"><a href="profile.html"><i class="fa fa-user"></i><span>Mi Cuenta</span></a></li>
 										<li><a href="my-properties.html"><i class="fa fa-home"></i><span>Mis Productos</span></a></li>
 										<li><a href="bookmarked.html"><i class="fa fa-heart"></i><span>Bookmarked Properties</span></a></li>
 									</ul>

@@ -26,7 +26,7 @@
 											</dl>
 										</aside>
 										<div class="detalles col-md-12">
-											<div class="btn-detalles taller col-md-12 col-sm-12 col-xs-12"><a href="property-detail.html"><i class="fa fa-external-link-square"></i> Ver perfil del vendedor</a></div>
+											<div class="btn-detalles taller col-md-12 col-sm-12 col-xs-12"><a href="taller.php"><i class="fa fa-external-link-square"></i> Ver perfil del vendedor</a></div>
 										</div>
 									</div>
 								</div>

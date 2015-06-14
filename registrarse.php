@@ -23,23 +23,23 @@
 							<form role="form" id="form-create-account" method="post" >
 								<div class="form-group">
 									<label for="exampleInputEmail1">Nombre</label>
-									<input type="name" class="form-control" id="exampleInputName1" placeholder="Ingresar nombre" required>
+									<input type="name" class="form-control" id="nombre" placeholder="Ingresar nombre" required>
 								</div>
 								<div class="form-group">
 									<label for="exampleInputEmail1">Email</label>
-									<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Ingresar email" required>
+									<input type="email" class="form-control" id="email" placeholder="Ingresar email" required>
 								</div>
 								<div class="form-group">
 									<label for="exampleInputEmail1">Repetir email</label>
-									<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Ingresar email" required>
+									<input type="email" class="form-control" id="email" placeholder="Ingresar email" required>
 								</div>
 								<div class="form-group">
 									<label for="exampleInputPassword1">Teléfono</label>
-									<input type="password" class="form-control" id="exampleInputPhone1" placeholder="Ingresar teléfono" required>
+									<input type="tel" class="form-control" id="telefono" placeholder="Ingresar teléfono" required>
 								</div>
 								<div class="form-group">
 									<label for="exampleInputPassword1">Crear contraseña</label>
-									<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Ingresar contraseña" required>
+									<input type="password" class="form-control" id="contraseña" placeholder="Ingresar contraseña" required>
 								</div>												
 								<div class="row">
 									<div class="mb10l top col-md-12 col-sm-12 col-xs-12">
@@ -53,7 +53,7 @@
 								<button type="submit" class="buscar col-md-12"style="width: 100%;">Registrarme</button>
 							</form>
 							<div class="center borde-terminos col-md-12">
-								Al registrarme, declaro que soy mayor de edad y acepto las Políticas de Privacidad y los Términos y Condiciones de VentaNeumaticos.
+								Al registrarme, declaro que soy mayor de edad y acepto las <a href="#">Políticas de Privacidad</a> y los <a href="#">Términos y Condiciones</a> de VentaNeumaticos.
 							</div>
 						</div>
 					</div>
