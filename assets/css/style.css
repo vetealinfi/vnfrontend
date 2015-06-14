@@ -124,7 +124,7 @@ h3 {
   font-size: 18px;
   font-weight: lighter;
   margin-bottom: 8px;
-  margin-top: 15px;
+  margin-top: 5px;
 }
 
 h4 {
@@ -2677,7 +2677,7 @@ ul.list-links-2 li a:hover {
 }
 #sidebar h3 {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  margin-top: 21px;
+  margin-top: 5px;
   padding-bottom: 6px;
 }
 #sidebar form .btn {
@@ -6292,7 +6292,7 @@ figure {
   position: relative;
   width: 100%;
   overflow: hidden;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
   border: 0;
@@ -6694,7 +6694,7 @@ aside {
   position: relative;
 }
 .buscador-top {
-  margin-top: -280px;
+  margin-top: -261px;
 }
 .fondo-buscador {
 	-moz-border-radius: 3px;

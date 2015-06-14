@@ -20,7 +20,7 @@
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
 							<div class="row">
-								<div class="right col-md-12">
+								<div class="right col-md-12 hidden-sm hidden-xs">
 									<a href="javascript:window.print()" class="button-icon btn btn-default"><i class="fa fa-print"></i>Imprimir cotización</a>
 								</div>
 							</div>

@@ -101,9 +101,9 @@
 						</div>
 						<div class="col-lg-9 col-md-8 col-sm-7 col-xs-12">
 							<div class="hidden-xs">
-								<header><h1>Neumáticos 205/55 R16 en Santiago</h1></header>
+								<header><h3>Neumáticos 205/55 R16 en Santiago</h3></header>
 							</div>
-							<div id="submit-map"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6658.712403992465!2d-70.64988365129136!3d-33.44002519020612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2scl!4v1428543458079" width="100%" height="100%" frameborder="0" style="border:0"></iframe></div>
+							<div id="submit-map"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6658.712403992465!2d-70.64988365129136!3d-33.44002519020612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2scl!4v1428543458079" width="100%" height="100%" frameborder="0" style="border:0; height: 282px;"></iframe></div>
 						</div>
 						<div class="col-lg-3 col-md-4 col-sm-12 col-xs-12">
 							<div class="ads">
@@ -112,7 +112,7 @@
 							</div>
 							<section id="description" class="hidden-xs hidden-md hidden-sm">
                                 <header>
-                                <h2>Neumáticos 205/55 R16 en Santiago</h2></header>
+                                <h1>Neumáticos 205/55 R16 en Santiago</h1></header>
                                     <p>
                                         Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir. Desde el momento en que cambie de velocidad y de vuelta al volante, la RE760 Sport entra en acción dándole una rápida respuesta y precisión en el control. Quedará impresionado con su poderoso agarre y estabilidad en condiciones secas y mojadas. Y al combinar el estimulante desempeño en la capa de rodamiento optimizado que reduce el ruido, es probable que se vuelva adicto a las carreteras. • El diseño espectacular y deportivo que esta llanta ofrece, cautiva desde el primer momento</p>
                             </section>

@@ -18,19 +18,23 @@
 				</div>
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-3 col-md-4 col-sm-5 col-xs-12">
+						<div class="col-xs-12  hidden-lg hidden-md hidden-sm">
+							<header>
+							<h1>Vendedores de neumáticos en Santiago</h1></header>
+						</div>
+						<div class="col-lg-3 col-md-4 col-sm-5 col-xs-12 hidden-xs">
 							<section id="sidebar">
 								<aside id="edit-search">
 									<header><h3>Buscar en otras ciudades</h3></header>
 									<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
 										<div class="form-group">
 											<select name="type">
-												<option value="">Región</option>
+												<option value="">Región Metropolitana</option>
 											</select>
 										</div>
 										<div class="form-group">
 											<select name="country">
-												<option value="">Comuna</option>
+												<option value="">Santiago</option>
 											</select>
 										</div>
 										<div class="form-group">
@@ -45,13 +49,20 @@
 								</div>
 								<div class="ads-250">ads
 								</div>
-								<div class="ads-250">ads
-								</div>
 							</div>
+							<section id="description" class="hidden-xs">
+                                <header>
+                                <h1>Vendedores de neumáticos en Santiago</h1></header>
+								<p>
+								Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir. Desde el momento en que cambie de velocidad y de vuelta al volante, la RE760 Sport entra en acción dándole una rápida respuesta y precisión en el control. Quedará impresionado con su poderoso agarre y estabilidad en condiciones secas y mojadas. Y al combinar el estimulante desempeño en la capa de rodamiento optimizado que reduce el ruido, es probable que se vuelva adicto a las carreteras. • El diseño espectacular y deportivo que esta llanta ofrece, cautiva desde el primer momento</p>
+                            </section>
 						</div>
 						<div class="col-lg-9 col-md-8 col-sm-7 col-xs-12">
 							<section id="agencies-listing">
-								<header><h1>Vendedores de neumáticos en Santiago</h1></header>
+								<div class="hidden-xs">
+									<header>
+									<h3>Vendedores de neumáticos en Santiago</h3></header>
+								</div>
 								<?php
 									include('taller-box.php');
 								?>
@@ -71,6 +82,39 @@
 									</ul>
 								</div>
 							</section>
+						</div>
+						<div class="col-lg-3 col-md-4 col-sm-5 col-xs-12 hidden-lg hidden-md hidden-sm">
+							<section id="sidebar">
+								<aside id="edit-search">
+									<header><h3>Buscar en otras ciudades</h3></header>
+									<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
+										<div class="form-group">
+											<select name="type">
+												<option value="">Región Metropolitana</option>
+											</select>
+										</div>
+										<div class="form-group">
+											<select name="country">
+												<option value="">Santiago</option>
+											</select>
+										</div>
+										<div class="form-group">
+											<button type="submit" class="btn btn-default">Buscar</button>
+										</div>
+									</form>
+								</aside>
+							</section>
+							
+							<div class="ads">
+								<div class="ads-250">ads
+								</div>
+								<div class="ads-250">ads
+								</div>
+							</div>
+							<section id="description">
+								<p>
+								Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir. Desde el momento en que cambie de velocidad y de vuelta al volante, la RE760 Sport entra en acción dándole una rápida respuesta y precisión en el control. Quedará impresionado con su poderoso agarre y estabilidad en condiciones secas y mojadas. Y al combinar el estimulante desempeño en la capa de rodamiento optimizado que reduce el ruido, es probable que se vuelva adicto a las carreteras. • El diseño espectacular y deportivo que esta llanta ofrece, cautiva desde el primer momento</p>
+                            </section>
 						</div>
 					</div>
 				</div>
