@@ -126,7 +126,7 @@
 										<div class="sorting">
 											<div class="form-group">
 												<select name="sorting">
-													<option value="">Sort By</option>
+													<option value="">Ordenar por</option>
 													<option value="1">Lowest price first</option>
 													<option value="2">Highest price first</option>
 													<option value="3">Date added</option>
@@ -191,7 +191,7 @@
 											<div class="detalles col-md-12 col-sm-12">
 												<div class="precio">$100.000</div>
 												<div class="precio-back">Antes $100.000</div>
-												<div class="btn-detalles taller col-md-6 col-sm-6 col-xs-6"><a href="property-detail.html"><i class="fa fa-external-link-square"></i> vendedor</a></div>
+												<div class="btn-detalles taller col-md-6 col-sm-6 col-xs-6"><a href="#"><i class="fa fa-map-marker"></i> Ver en mapa</a></div>
 												<div class="btn-detalles taller col-md-6 col-sm-6 col-xs-6"><a href="#" data-toggle="modal" data-target=".inicio"><i class="fa fa-shopping-cart"></i> Cotizar</a></div>
 											</div>
 										</div>
@@ -306,7 +306,7 @@
 							<div class="container-fluid">
 								<div class="row">
 									<div class="col-md-12">
-										<form>
+										<form role="form" id="form-contact" method="post" class="clearfix">
 											<div class="form-group">
 												<label for="exampleInputEmail1">Email</label>
 												<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Ingresar email">
@@ -327,7 +327,7 @@
 													<a href="#">No recuerdo mi clave</a>
 												</div>
 											</div>
-											<button type="submit" class="buscar col-md-12" style="width: 100%;" data-toggle="modal" data-target=".cotizar">Ingresar</button>
+											<button type="submit" class="buscar col-md-12" style="width: 100%;" data-toggle="modal" data-target=".cotizar" id="form-contact-submit">Ingresar</button>
 										</form>
 										<div class="center col-md-12">
 											 - o -
@@ -336,7 +336,7 @@
 										<div class="center borde-registrar col-md-12">
 											¿No tienes cuenta?
 										</div>
-										<div class="btn-detalles crear col-md-12"><a href="#" data-toggle="modal" data-target=".registrarse"><i class="fa fa-plus" style="font-size: 20px;"></i>  Crear una cuenta</a></div>
+										<div class="btn-detalles crear col-md-12"><a href="#" data-toggle="modal" data-target=".registrarse" id="form-contact-submit"><i class="fa fa-plus" style="font-size: 20px;"></i>  Crear una cuenta</a></div>
 									</div>
 								</div>
 							</div>
@@ -355,7 +355,7 @@
 							<div class="container-fluid">
 								<div class="row">
 									<div class="col-md-12">
-										<form>
+										<form role="form" id="form-contact" method="post" class="clearfix">
 											<div class="form-group">
 												<label for="exampleInputEmail1">Nombre</label>
 												<input type="name" class="form-control" id="exampleInputName1" placeholder="Ingresar nombre" required>
@@ -385,7 +385,7 @@
 													</div>
 												</div>
 											</div>
-											<button type="submit" class="buscar col-md-12"style="width: 100%;">Continuar cotizando</button>
+											<button type="submit" class="buscar col-md-12"style="width: 100%;" id="form-contact-submit">Continuar cotizando</button>
 										</form>
 										<div class="center borde-terminos col-md-12">
 											Al registrarme, declaro que soy mayor de edad y acepto las <a href="#">Políticas de Privacidad</a> y los <a href="#">Términos y Condiciones</a> de VentaNeumaticos.
@@ -408,7 +408,7 @@
 							<div class="container-fluid">
 								<div class="row">
 									<div class="col-md-12">
-										<form>
+										<form role="form" id="form-contact" method="post" class="clearfix">
 											<div class="form-group">
 												<input type="name" class="form-control" id="exampleInputName1" placeholder="Ingresa las unidades de neumáticos">
 											</div>

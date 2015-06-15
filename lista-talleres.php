@@ -63,6 +63,7 @@
 									<header>
 									<h3>Vendedores de neumáticos en Santiago</h3></header>
 								</div>
+								<div id="submit-map"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6658.712403992465!2d-70.64988365129136!3d-33.44002519020612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2scl!4v1428543458079" width="100%" height="100%" frameborder="0" style="border:0; height: 282px;"></iframe></div>
 								<?php
 									include('taller-box.php');
 								?>

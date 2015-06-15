@@ -19,9 +19,9 @@
 				<div class="container">
 					<header><h1>Ingresar</h1></header>
 					<div class="box-ingreso col-md-4 col-sm-6 col-md-offset-4 col-sm-offset-3" style="padding: 20px 15px;">
-						<form role="form" id="form-create-account" method="post" >
+						<form role="form" id="form-contact" method="post" class="clearfix">
 							<div class="form-group">
-								<input type="email" class="form-control" id="email" placeholder="Ingresa tu correo electrónico" required>
+								<input type="email" class="form-control" id="form-contact-email" name="form-contact-email" placeholder="Ingresa tu correo electrónico" required>
 							</div>
 							<div class="form-group">
 								<input type="password" class="form-control" id="contraseña" placeholder="Ingresa tu contraseña" required>
@@ -38,7 +38,7 @@
 									<a href="#">No recuerdo mi clave</a>
 								</div>
 							</div>
-							<button type="submit" class="buscar col-md-12" style="width: 100%;" data-toggle="modal" data-target=".cotizar">Ingresar</button>
+							<button type="submit" class="buscar col-md-12" style="width: 100%;" id="form-contact-submit">Ingresar</button>
 						</form>
 						<div class="center col-md-12">
 							- o -

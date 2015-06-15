@@ -96,6 +96,13 @@
 									</div>
 								</div><!-- /.property -->
 							</section>
+							<div class="invoice">
+								<section>
+									<h4>Nota:</h4>
+									<p>Cotizaciónes por verificar con vendedor, no válidas como orden de compra o reservación de productos. Los precios o stock pueden variar sin previo aviso según disponga el vendedor. Los productos y sus precios pueden aparecer en el sistema, pero no necesariamente disponibles por el vendedor.
+									</p>
+								</section>
+							</div>
 						</div>
 					</div>
 				</div>

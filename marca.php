@@ -30,13 +30,19 @@
 										</ol>
 										<div class="carousel-inner" role="listbox">
 											<div class="item active">
-												<img src="assets/img/slide-01.jpg" class="" alt="..." />
+												<img src="assets/img/br-01.jpg" class="" alt="..." />
 												<div class="carousel-caption">
 												...
 												</div>
 											</div>
 											<div class="item">
-												<img src="assets/img/slide-02.jpg" class="" alt="..." />
+												<img src="assets/img/br-02.jpg" class="" alt="..." />
+												<div class="carousel-caption">
+												...
+												</div>
+											</div>
+											<div class="item">
+												<img src="assets/img/br-03.jpg" alt="..." />
 												<div class="carousel-caption">
 												...
 												</div>
@@ -53,22 +59,22 @@
 												<div class="col-md-3 col-sm-3">
 													<div class="logo-taller-lg hidden-md hidden-sm hidden-xs">
 														<div class="logo-taller">
-															<img alt="" src="assets/img/logo-cuadrado.jpg">
+															<img alt="" src="assets/img/logo-cuadrado-br.jpg">
 														</div>
 													</div>
 													<div class="logo-taller-md hidden-lg hidden-sm hidden-xs">
 														<div class="logo-taller">
-															<img alt="" src="assets/img/logo-cuadrado.jpg">
+															<img alt="" src="assets/img/logo-cuadrado-br.jpg">
 														</div>
 													</div>
 													<div class="logo-taller-sm hidden-lg hidden-md hidden-xs">
 														<div class="logo-taller">
-															<img alt="" src="assets/img/logo-cuadrado.jpg">
+															<img alt="" src="assets/img/logo-cuadrado-br.jpg">
 														</div>
 													</div>
 													<div class="logo-taller-xs hidden-lg hidden-md hidden-sm">
 														<div class="logo-tallerxs">
-															<img alt="" src="assets/img/logo-cuadrado.jpg">
+															<img alt="" src="assets/img/logo-cuadrado-br.jpg">
 														</div>
 													</div>
 												</div>
@@ -101,7 +107,7 @@
 																		<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
 																			<div class="row">
 																				<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-right: 6px;">
-																					<select name="marcas" size="3">
+																					<select name="marcas" size="3" multiple>
 																						<option value="0" selected>Ancho</option>
 																						<option value="1">Bridgestone</option>
 																						<option value="2">Pirelli</option>
@@ -127,7 +133,7 @@
 																					</select>
 																				</div>
 																				<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-right: 3px; padding-left: 3px;">
-																					<select name="marcas" size="1">
+																					<select name="marcas" size="1" multiple>
 																						<option value="0" selected>Perfil</option>
 																						<option value="1">Bridgestone</option>
 																						<option value="2">Pirelli</option>
@@ -153,7 +159,7 @@
 																					</select>
 																				</div>
 																				<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-left: 6px;">
-																					<select name="marcas" size="1">
+																					<select name="marcas" size="1" multiple>
 																						<option value="0" selected>Aro</option>
 																						<option value="1">Bridgestone</option>
 																						<option value="2">Pirelli</option>
@@ -178,37 +184,6 @@
 																						<option value="21">Ling Long</option>
 																					</select>
 																				</div>
-																			</div>
-																			<div class="form-group">
-																				<div class="price-range">
-																					<input id="price-input" type="text" name="price" value="1000;299000">
-																				</div>
-																			</div>
-																			<div class="form-group">
-																				<select name="marcas" size="1" multiple>
-																					<option value="0" selected>Todas las Marcas</option>
-																					<option value="1">Bridgestone</option>
-																					<option value="2">Pirelli</option>
-																					<option value="3">Michelin</option>
-																					<option value="4">Continental</option>
-																					<option value="5">Firestone</option>
-																					<option value="6">Kumho</option>
-																					<option value="7">Continental</option>
-																					<option value="8">Maxxis</option>
-																					<option value="9">Hankook</option>
-																					<option value="10">Nexen</option>
-																					<option value="11">General Tire</option>
-																					<option value="12">Westlake</option>
-																					<option value="13">Dunlop</option>
-																					<option value="14">Yokohama</option>
-																					<option value="15">Cooper</option>
-																					<option value="16">Sumitomo</option>
-																					<option value="17">Bfgoodrich</option>
-																					<option value="18">Fuzion</option>
-																					<option value="19">Sonar</option>
-																					<option value="20">Goodride</option>
-																					<option value="21">Ling Long</option>
-																				</select>
 																			</div>
 																			<div class="form-group">
 																				<select name="indice" size="1" multiple>
@@ -307,37 +282,12 @@
 																				</label>
 																			</div>
 																		</div>
-																		<div class="detalles col-md-12 col-sm-12 col-xs-12">
-																			<header><figure>SERVICIOS ASOCIADOS DEL VENDEDOR</figure></header>
-																			<aside>
-																				<dl><div class="detalles col-md-6 col-sm-6 col-xs-6">
-																					<dt>Instalación</dt>
-																					<dd>SI</dd>
-																					<dt>Balanceo</dt>
-																					<dd>SI</dd>
-																					</div>
-																					<div class="detalles col-md-6 col-sm-6 col-xs-6">
-																						<dt>Alineación</dt>
-																						<dd>SI</dd>
-																						<dt>Despacho</dt>
-																						<dd>SI</dd>
-																					</div>
-																				</dl>
-																			</aside>
-																		</div>
-																		<div class="detalles col-md-12 col-sm-12">
-																			<div class="precio">$100.000</div>
-																			<div class="precio-back">Antes $100.000</div>
-																			<div class="btn-detalles taller col-md-12 col-sm-12 col-xs-12"><a href="property-detail.html"><i class="fa fa-shopping-cart"></i> Cotizar</a></div>
+																		<div class="detalles col-md-12 col-sm-12">	
+																			<div class="btn-detalles taller col-md-12 col-sm-12 col-xs-12"><a href="property-detail.html"><i class="fa fa-shopping-cart"></i> Buscar vendedores</a></div>
 																		</div>
 																	</div>
 																</div>
-																<div class="ads">
-																	<div class="ads-728 hidden-xs hidden-md">ads</div>
-																	<div class="ads-468 hidden-xs hidden-sm hidden-lg">ads</div>
-																	<div class="ads-250 hidden-sm hidden-md hidden-lg">ads</div>
-																</div>
-																<div class="center">
+																<div class="center col-md-12 col-sm-12">
 																	<ul class="pagination">
 																		<li class="active"><a href="#">1</a></li>
 																		<li><a href="#">2</a></li>
@@ -351,16 +301,28 @@
 													</div>
 												</div>
 												<div class="tab-pane" id="tab2">
-													<section id="description" class="col-md-12" style="padding-bottom: 20px;">
-														<header><h2>Información del Taller</h2></header>
-														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et dui vestibulum,
-															bibendum purus sit amet, vulputate mauris. Ut adipiscing gravida tincidunt.
-															Duis euismod placerat rhoncus. Phasellus mollis imperdiet placerat.
-														purus sit amet, vulputate mauris. Ut adipiscing gravida tincidunt.
-														Duis euismod placerat rhoncus. Phasellus mollis imperdiet placerat. purus sit amet, vulputate mauris. Ut adipiscing gravida tincidunt.
-														Duis euismod placerat rhoncus. Phasellus mollis imperdiet placerat.
+													<section id="description" class="col-md-9 col-sm-8 col-xs-12" style="padding-bottom: 20px;">
+														<header><h1>Neumáticos Bridgestone Chile</h1></header>
+														<p>Nuestra historia comienza cuando Firestone inicia sus operaciones en Chile hace varias décadas, convirtiéndose en uno de los únicos fabricantes de neumáticos del país. Posteriormente la empresa dejó el mercado vendiendo sus activos a diferentes entidades, incluida la fábrica ubicada en la cuarta región.
+														</p>
+														<p>Ya en 1983 se crea Neumáticos de Chile S.A., empresa que recuperó la fábrica ubicada en Alto Peñuelas, Coquimbo. Gracias a lo anterior se exportan cantidades significativas de neumáticos radiales textiles y convencionales de automóvil, camioneta y camión a Argentina, Bolivia, Ecuador, Estados Unidos, Perú y países del Caribe, cumpliendo con estrictas normas de seguridad.
+														</p>
+														<p>A finales del siglo anterior, más específicamente en 1997, Firestone vuelve a Chile y adquiere el total de los activos de Neumáticos de Chile S.A.
+														</p>
+														<p>Ya en el año 2000, y respondiendo a cambios a nivel global, la empresa cambia su razón social a Bridgestone-Firestone Chile, entidad que además está a cargo del mercado peruano y boliviano.
+														</p>
+														<p>El 2006 es un año hito para Bridgestone-Firestone Chile ya que se concreta el cierre definitivo de la planta de Alto Peñuelas, trasladando la producción a una planta de última generación en Brasil. Lo anterior marca un profundo proceso de reestructuración de la compañía en Chile, enfatizando en la importación de neumáticos desde principalmente Argentina, Brasil, Costa Rica, Estados Unidos, Japón y México.
+														</p>
+														<p>En 2009 la filial chilena simplifica su nombre a Bridgestone Chile.
+														</p>
+														<p>En el 2010 Bridgestone Corporation decide dejar de auspiciar a la Formula 1, orientando recursos publicitarios hacia el futbol, deporte que en América Latina representa ser una pasión de multitudes. Por esto que en los años 2011 y 2012 Bridgestone se transformó en sponsor oficial de la Copa Bridgestone Sudamericana, siendo el 2011 un año clave para Chile, ya que el campeón fue la Universidad de Chile. Lo anterior se complemento por el auspicio que la marca hizo en Chile a diferentes clubes del campeonato nacional.
+														</p>
+														<p>Hoy la compañía es orgulloso patrocinador oficial de la Copa Bridgestone Libertadores 2013, lo cual genera un positivo impacto en nuestros clientes, aficionados al futbol y medios especializados.
 														</p>
 													</section>
+													<div class="col-md-3 col-sm-4 col-xs-12" style="padding-bottom: 20px;">
+														<img alt="" style="width: 100%;" src="assets/img/br-logo-text.jpg">
+													</div>
 												</div>
 												<div class="tab-pane" id="tab3">
 													<div class="col-md-12" style="padding-bottom: 20px;">
@@ -369,24 +331,22 @@
 															<section id="contact-information">
 																<div class="row">
 																	<div class="col-md-5 col-sm-8">
-																		<header><h3>Where We Are</h3></header>
+																		<header><h3>Mapa</h3></header>
 																		<div id="contact-map"></div>
 																	</div>
 																	<div class="col-md-3 col-sm-4">
 																		<section id="address">
-																			<header><h3>Address</h3></header>
+																			<header><h3>Direción</h3></header>
 																			<address>
-																				<strong>Your Company</strong><br>
-																				4877 Spruce Drive<br>
-																				West Newton, PA 15089<br><br>
-																				
-																				+1 (734) 123-4567<br>
-																				<a href="#">hello@example.com</a><br>
-																				<strong>skype: </strong>your.company
+																				<strong>Dirección</strong><br>
+																				Avenida Presidente Kennedy 5735<br>
+																				Las Condes, Santiago<br><br>
+																				(2) 460 72 00 <br>
+																				<a href="mailto:servicioalcliente-Chile@la-bridgestone.com">servicioalcliente-Chile@la-bridgestone.com</a><br>
 																			</address>
 																		</section>
 																		<section id="social">
-																			<header><h3>Social Profiles</h3></header>
+																			<header><h3>Perfiles sociales</h3></header>
 																			<div class="agent-social">
 																				<a href="#" class="fa fa-twitter btn btn-grey-dark"></a>
 																				<a href="#" class="fa fa-facebook btn btn-grey-dark"></a>
@@ -396,18 +356,18 @@
 																	</div>
 																	<div class="col-md-4 col-sm-12">
 																		<section id="form">
-																			<header><h3>Send Us a Message</h3></header>
+																			<header><h3>Enviarle un mensaje</h3></header>
 																			<form role="form" id="form-contact" method="post"  class="clearfix">
 																				<div class="row">
 																					<div class="col-md-6">
 																						<div class="form-group">
-																							<label for="form-contact-name">Your Name<em>*</em></label>
+																							<label for="form-contact-name">Nombre<em>*</em></label>
 																							<input type="text" class="form-control" id="form-contact-name" name="form-contact-name" required>
 																						</div>
 																					</div>
 																					<div class="col-md-6">
 																						<div class="form-group">
-																							<label for="form-contact-email">Your Email<em>*</em></label>
+																							<label for="form-contact-email">Email<em>*</em></label>
 																							<input type="email" class="form-control" id="form-contact-email" name="form-contact-email" required>
 																						</div>
 																					</div>
@@ -415,7 +375,7 @@
 																				<div class="row">
 																					<div class="col-md-12">
 																						<div class="form-group">
-																							<label for="form-contact-message">Your Message<em>*</em></label>
+																							<label for="form-contact-message">Mensaje<em>*</em></label>
 																							<textarea class="form-control" id="form-contact-message" rows="4" name="form-contact-message" required></textarea>
 																						</div>
 																					</div>

@@ -2614,9 +2614,9 @@ ul.list-links-2 li a:hover {
   S
 ****/
 #search-filter {
-  margin-bottom: 40px;
-  padding-top: 10px;
-  position: relative;
+	margin-bottom: 20px;
+	padding-top: 3px;
+	position: relative;
 }
 #search-filter h3 {
   display: inline-block;
@@ -3244,7 +3244,7 @@ ul.list-links-2 li a:hover {
   display: inline-block;
   /* padding: 5px; */
   /* text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3); */
-  background-color: #e2372f;
+  background-color: #E30A00;
   color: #fff;
   font-size: 13px;
   font-weight: bold;
@@ -4270,12 +4270,12 @@ form #form-status #invalid {
 }
 form label.error {
   background-color: red;
-  bottom: -30px;
+  bottom: -5px;
   color: #fff;
   font-size: 12px;
   left: 0;
   padding: 5px;
-  position: absolute;
+  position: relative;
   z-index: 2;
 }
 form label.error:before {
@@ -6333,7 +6333,7 @@ figure {
 }
 .carousel {
   position: relative;
-  margin-top: -20px;
+  margin-top: -35px;
 }
 .carousel-slide{
   position: relative;
@@ -6600,7 +6600,7 @@ aside {
   position: absolute;
   background-color: #FFF;
   margin-top: 0;
-  top: 265px;
+  top: 241px;
   margin-left: 30px;
 }
 .logo-taller-md {
@@ -6613,7 +6613,7 @@ aside {
   position: absolute;
   background-color: #FFF;
   margin-top: 0;
-  top: 210px;
+  top: 185px;
   margin-left: 3px;
 }
 .logo-taller-sm {
@@ -6626,7 +6626,7 @@ aside {
   position: absolute;
   background-color: #FFF;
   margin-top: 0;
-  top: 189px;
+  top: 164px;
   margin-left: -5px;
 }
 .logo-taller-xs {
@@ -6639,7 +6639,7 @@ aside {
   position: absolute;
   background-color: #FFF;
   margin-top: 0;
-  top: 33px;
+  top: -5px;
   margin-left: -10px;
 }
 .carousel-control {
@@ -6684,7 +6684,7 @@ aside {
   font-size: 12px;
 }
 .margin-top{
-  margin-top: 20px;
+  margin-top: 0px;
 }
 .padding-15 {
   padding-left: 15px;

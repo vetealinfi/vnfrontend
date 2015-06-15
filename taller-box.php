@@ -9,7 +9,7 @@
 										<h3><a href="h#"/>Venta Neumaticos</a></h3>     
 									</div>
 									<div class="detalles col-lg-7 col-md-9 col-sm-9 col-xs-12">
-										<header><figure>SERVICIOS ASOCIADOS DEL VENDEDOR</figure></header>
+										<header><figure>SERVICIOS DEL TALLER</figure></header>
 										<aside>
 											<dl><div class="detalles col-md-6 col-sm-6 col-xs-6">
 												<dt>Instalación</dt>
@@ -26,7 +26,8 @@
 											</dl>
 										</aside>
 										<div class="detalles col-md-12">
-											<div class="btn-detalles taller col-md-12 col-sm-12 col-xs-12"><a href="taller.php"><i class="fa fa-external-link-square"></i> Ver perfil del vendedor</a></div>
+											<div class="btn-detalles taller col-md-6 col-sm-6 col-xs-6"><a href="taller.php"><i class="fa fa-map-marker"></i> Ver en mapa</a></div>
+											<div class="btn-detalles taller col-md-6 col-sm-6 col-xs-6"><a href="taller.php"><i class="fa fa-external-link-square"></i> Ver perfil del taller</a></div>
 										</div>
 									</div>
 								</div>

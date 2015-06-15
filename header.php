@@ -24,38 +24,46 @@
 				<div class="container">
 					<header class="navbar" id="top" role="banner">
 						<div class="row">
-							<div class="navbar-header col-lg-3 col-md-3 col-sm-5 col-xs-12">
+							<div class="navbar-header col-lg-2 col-md-2 col-sm-3 col-xs-12">
 								<div class="navbar-brand nav"  id="brand">
 									<a href="index.php"><img src="assets/img/logo.png" alt="brand"></a>
 								</div>
 							</div>
-							<div class="col-lg-5 col-md-5 col-sm-7 hidden-xs">
-								<aside id="search" style="margin-top: 6px;">
+							<div class="col-lg-5 col-md-4 col-sm-5 hidden-xs" style="padding-left: 50px;">
+								<aside id="search" style="margin-top: 6px;margin-right: -45px;">
 									<form class="navbar-left" role="search">
 										<div class="input-group">
-											<input type="text" class="form-control" placeholder="Enter Keyword">
+											<input type="text" class="form-control" placeholder="¿Qué buscas?">
 											<span class="input-group-btn"><button class="btn btn-default search" type="button"><i class="fa fa-search"></i></button></span>
 										</div>
 									</form>
 								</aside>
 							</div>
-							<div class="col-lg-4 col-md-4 col-sm-7 col-xs-12">
+							<div class="col-lg-5 col-md-6 col-sm-4 col-xs-12" >
 								<nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
-									<ul class="nav navbar-nav hidden-sm margin-top">
+									<ul class="nav navbar-nav margin-top">
 										<li>
 											<div class="padding-15 hidden-lg hidden-md hidden-sm">
 												<aside id="search" style="margin-top: 6px;">
 													<form class="navbar-left" role="search">
 														<div class="input-group">
-															<input type="text" class="form-control" placeholder="Enter Keyword">
+															<input type="text" class="form-control" placeholder="¿Qué buscas?">
 															<span class="input-group-btn"><button class="btn btn-default search" type="button"><i class="fa fa-search"></i></button></span>
-												
+															
 														</div>
 													</form>
 												</aside>
 											</div>
 										</li>
-										<li class="has-child"><a href="lista-talleres.php">Vendedores</a>
+										<li class="has-child"><a href="#"><i class="fa fa-certificate" style="font-size: 25px;"></i><span class="hidden-sm"> Marcas</span></a>
+											<ul class="child-navigation">
+												<li><a href="marca.php">Bridgestone</a></li>
+												<li><a href="marca.php">Firestone</a></li>
+												<li><a href="marca.php">Michelin</a></li>
+												<li><a href="marca.php">Hankook</a></li>
+											</ul>
+										</li>
+										<li class="has-child"><a href="lista-talleres.php"><i class="fa fa-tags" style="font-size: 25px;"></i><span class="hidden-sm"> Vendedores</span></a>
 											<ul class="child-navigation">
 												<li><a href="lista-talleres.php">Santiago</a></li>
 												<li><a href="lista-talleres.php">La Serena</a></li>
@@ -63,40 +71,18 @@
 												<li><a href="lista-talleres.php">Temuco</a></li>
 											</ul>
 										</li>
-										<li class="has-child"><a href="#">Blog</a>
+										<li class="has-child"><a href="lista-talleres.php"><i class="fa fa-wrench" style="font-size: 25px;"></i><span class="hidden-sm"> Talleres</span></a>
 											<ul class="child-navigation">
-												<li><a href="about-us.html">About Us</a></li>
-												<li><a href="agent-detail.html">Agent Detail</a></li>
-												<li><a href="invoice-print.html">Invoice</a></li>
-												<li><a href="profile.html">Profile</a></li>
-												<li><a href="my-properties.html">My Properties</a></li>
-												<li><a href="bookmarked.html">Bookmarked Properties</a></li>
-												<li><a href="create-account.html">Create Account</a></li>
-												<li><a href="create-agency.html">Create Agency</a></li>
-												<li><a href="sign-in.html">Sign In</a></li>
-												<li class="has-child"><a href="#">Error Pages</a>
-													<ul class="child-navigation">
-														<li><a href="403.html">403</a></li>
-														<li><a href="404.html">404</a></li>
-														<li><a href="500.html">500</a></li>
-													</ul>
-												</li>
-												<li><a href="faq.html">FAQ</a></li>
-												<li><a href="left-sidebar.html">Left Sidebar</a></li>
-												<li><a href="right-sidebar.html">Right Sidebar</a></li>
-												<li><a href="sticky-footer.html">Sticky Footer</a></li>
-												<li><a href="pricing.html">Pricing</a></li>
-												<li><a href="shortcodes.html">Shortcodes</a></li>
-												<li><a href="timeline.html">Timeline</a></li>
-												<li><a href="terms-conditions.html">Terms & Conditions</a></li>
-												<li><a href="rtl.html">RTL Support</a></li>
+												<li><a href="lista-talleres.php">Santiago</a></li>
+												<li><a href="lista-talleres.php">La Serena</a></li>
+												<li><a href="lista-talleres.php">Valparaíso</a></li>
+												<li><a href="lista-talleres.php">Temuco</a></li>
 											</ul>
 										</li>
-										<li><a href="contact.html">Contacto</a></li>
+										<li><a href="contacto.php"><i class="fa fa-comment" style="font-size: 25px;"></i><span class="hidden-sm"> Contacto</span></a></li>
 									</ul>
 								</nav>
 							</div>
-						</div>
 						<div class="navbar-header">
 							<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
 								<span class="sr-only">Toggle navigation</span>

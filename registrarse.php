@@ -20,7 +20,7 @@
 					<header><h1>Registrarse</h1></header>
 					<div class="row">
 						<div class="box-ingreso col-md-4 col-sm-6 col-md-offset-4 col-sm-offset-3" style="padding: 20px 15px;">
-							<form role="form" id="form-create-account" method="post" >
+							<form role="form" id="form-contact" method="post" class="clearfix">
 								<div class="form-group">
 									<label for="exampleInputEmail1">Nombre</label>
 									<input type="name" class="form-control" id="nombre" placeholder="Ingresar nombre" required>
@@ -50,7 +50,7 @@
 										</div>
 									</div>
 								</div>
-								<button type="submit" class="buscar col-md-12"style="width: 100%;">Registrarme</button>
+								<button type="submit" class="buscar col-md-12"style="width: 100%;" id="form-contact-submit">Registrarme</button>
 							</form>
 							<div class="center borde-terminos col-md-12">
 								Al registrarme, declaro que soy mayor de edad y acepto las <a href="#">Políticas de Privacidad</a> y los <a href="#">Términos y Condiciones</a> de VentaNeumaticos.
