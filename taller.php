@@ -97,159 +97,6 @@
 																			</section>
 																		</div>
 																	</div>
-																	<div class="col-lg-12 col-md-12 col-sm-6 col-xs-12">
-																		<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
-																			<div class="row">
-																				<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-right: 6px;">
-																					<select name="marcas" size="3">
-																						<option value="0" selected>Ancho</option>
-																						<option value="1">Bridgestone</option>
-																						<option value="2">Pirelli</option>
-																						<option value="3">Michelin</option>
-																						<option value="4">Continental</option>
-																						<option value="5">Firestone</option>
-																						<option value="6">Kumho</option>
-																						<option value="7">Continental</option>
-																						<option value="8">Maxxis</option>
-																						<option value="9">Hankook</option>
-																						<option value="10">Nexen</option>
-																						<option value="11">General Tire</option>
-																						<option value="12">Westlake</option>
-																						<option value="13">Dunlop</option>
-																						<option value="14">Yokohama</option>
-																						<option value="15">Cooper</option>
-																						<option value="16">Sumitomo</option>
-																						<option value="17">Bfgoodrich</option>
-																						<option value="18">Fuzion</option>
-																						<option value="19">Sonar</option>
-																						<option value="20">Goodride</option>
-																						<option value="21">Ling Long</option>
-																					</select>
-																				</div>
-																				<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-right: 3px; padding-left: 3px;">
-																					<select name="marcas" size="1">
-																						<option value="0" selected>Perfil</option>
-																						<option value="1">Bridgestone</option>
-																						<option value="2">Pirelli</option>
-																						<option value="3">Michelin</option>
-																						<option value="4">Continental</option>
-																						<option value="5">Firestone</option>
-																						<option value="6">Kumho</option>
-																						<option value="7">Continental</option>
-																						<option value="8">Maxxis</option>
-																						<option value="9">Hankook</option>
-																						<option value="10">Nexen</option>
-																						<option value="11">General Tire</option>
-																						<option value="12">Westlake</option>
-																						<option value="13">Dunlop</option>
-																						<option value="14">Yokohama</option>
-																						<option value="15">Cooper</option>
-																						<option value="16">Sumitomo</option>
-																						<option value="17">Bfgoodrich</option>
-																						<option value="18">Fuzion</option>
-																						<option value="19">Sonar</option>
-																						<option value="20">Goodride</option>
-																						<option value="21">Ling Long</option>
-																					</select>
-																				</div>
-																				<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-left: 6px;">
-																					<select name="marcas" size="1">
-																						<option value="0" selected>Aro</option>
-																						<option value="1">Bridgestone</option>
-																						<option value="2">Pirelli</option>
-																						<option value="3">Michelin</option>
-																						<option value="4">Continental</option>
-																						<option value="5">Firestone</option>
-																						<option value="6">Kumho</option>
-																						<option value="7">Continental</option>
-																						<option value="8">Maxxis</option>
-																						<option value="9">Hankook</option>
-																						<option value="10">Nexen</option>
-																						<option value="11">General Tire</option>
-																						<option value="12">Westlake</option>
-																						<option value="13">Dunlop</option>
-																						<option value="14">Yokohama</option>
-																						<option value="15">Cooper</option>
-																						<option value="16">Sumitomo</option>
-																						<option value="17">Bfgoodrich</option>
-																						<option value="18">Fuzion</option>
-																						<option value="19">Sonar</option>
-																						<option value="20">Goodride</option>
-																						<option value="21">Ling Long</option>
-																					</select>
-																				</div>
-																			</div>
-																			<div class="form-group">
-																				<div class="price-range">
-																					<input id="price-input" type="text" name="price" value="1000;299000">
-																				</div>
-																			</div>
-																			<div class="form-group">
-																				<select name="marcas" size="1" multiple>
-																					<option value="0" selected>Todas las Marcas</option>
-																					<option value="1">Bridgestone</option>
-																					<option value="2">Pirelli</option>
-																					<option value="3">Michelin</option>
-																					<option value="4">Continental</option>
-																					<option value="5">Firestone</option>
-																					<option value="6">Kumho</option>
-																					<option value="7">Continental</option>
-																					<option value="8">Maxxis</option>
-																					<option value="9">Hankook</option>
-																					<option value="10">Nexen</option>
-																					<option value="11">General Tire</option>
-																					<option value="12">Westlake</option>
-																					<option value="13">Dunlop</option>
-																					<option value="14">Yokohama</option>
-																					<option value="15">Cooper</option>
-																					<option value="16">Sumitomo</option>
-																					<option value="17">Bfgoodrich</option>
-																					<option value="18">Fuzion</option>
-																					<option value="19">Sonar</option>
-																					<option value="20">Goodride</option>
-																					<option value="21">Ling Long</option>
-																				</select>
-																			</div>
-																			<div class="form-group">
-																				<select name="indice" size="1" multiple>
-																					<option value="0" selected>Todos Índices Carga/Velocidad</option>
-																					<option value="1">91H</option>
-																					<option value="2">91V</option>
-																					<option value="3">94W</option>
-																					<option value="4">89V</option>
-																					<option value="5">91W</option>
-																					<option value="6">H</option>
-																					<option value="7">91Y</option>
-																				</select>
-																			</div>
-																			<div class="form-group">
-																				<select name="especifico">
-																					<option value="">Neumáticos Específicos</option>
-																					<option value="1">Antipinchazos</option>
-																					<option value="2">No antipinchazos</option>
-																					<option value="3">Reforzados</option>
-																					<option value="4">No reforzados</option>
-																				</select>
-																			</div>
-																			<div class="form-group">
-																				<select name="Tipo de vehículo">
-																					<option value=""> Todos los tipos</option>
-																					<option value="1">Auto</option>
-																					<option value="2">Moto</option>
-																					<option value="3">Camioneta</option>
-																					<option value="4">Camión</option>
-																					<option value="5">Agrícola</option>
-																					<option value="4">Forestal</option>
-																					<option value="5">Bus</option>
-																					<option value="4">Grúa Horquilla</option>
-																					<option value="5">Maquinaria Pesada</option>
-																				</select>
-																			</div>
-																			<div class="form-group">
-																				<button type="submit" class="buscar">BUSCAR</button>
-																			</div>
-																		</form>
-																	</div>
 																</div>
 															</aside>
 														</section>
@@ -277,7 +124,7 @@
 																	<div class="marco">
 																		<div class="margen col-md-6 col-sm-6 col-xs-6">
 																			<figure class="ribbon">30% dcto</figure>
-																			<a href="ficha-producto.html"><img alt="" src="assets/img/properties/property-03.jpg"></a>
+																			<a href="#" data-toggle="modal" data-target=".detalle"><img alt="" src="assets/img/properties/property-03.jpg"></a>
 																		</div>
 																		<div class="detalles col-md-6 col-sm-6 col-xs-6">
 																			<header>
@@ -351,16 +198,28 @@
 													</div>
 												</div>
 												<div class="tab-pane" id="tab2">
-													<section id="description" class="col-md-12" style="padding-bottom: 20px;">
-														<header><h2>Información del Taller</h2></header>
-														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et dui vestibulum,
-															bibendum purus sit amet, vulputate mauris. Ut adipiscing gravida tincidunt.
-															Duis euismod placerat rhoncus. Phasellus mollis imperdiet placerat.
-														purus sit amet, vulputate mauris. Ut adipiscing gravida tincidunt.
-														Duis euismod placerat rhoncus. Phasellus mollis imperdiet placerat. purus sit amet, vulputate mauris. Ut adipiscing gravida tincidunt.
-														Duis euismod placerat rhoncus. Phasellus mollis imperdiet placerat.
+													<section id="description" class="col-md-9 col-sm-8 col-xs-12" style="padding-bottom: 20px;">
+														<header><h1>Neumáticos Bridgestone Chile</h1></header>
+														<p>Nuestra historia comienza cuando Firestone inicia sus operaciones en Chile hace varias décadas, convirtiéndose en uno de los únicos fabricantes de neumáticos del país. Posteriormente la empresa dejó el mercado vendiendo sus activos a diferentes entidades, incluida la fábrica ubicada en la cuarta región.
+														</p>
+														<p>Ya en 1983 se crea Neumáticos de Chile S.A., empresa que recuperó la fábrica ubicada en Alto Peñuelas, Coquimbo. Gracias a lo anterior se exportan cantidades significativas de neumáticos radiales textiles y convencionales de automóvil, camioneta y camión a Argentina, Bolivia, Ecuador, Estados Unidos, Perú y países del Caribe, cumpliendo con estrictas normas de seguridad.
+														</p>
+														<p>A finales del siglo anterior, más específicamente en 1997, Firestone vuelve a Chile y adquiere el total de los activos de Neumáticos de Chile S.A.
+														</p>
+														<p>Ya en el año 2000, y respondiendo a cambios a nivel global, la empresa cambia su razón social a Bridgestone-Firestone Chile, entidad que además está a cargo del mercado peruano y boliviano.
+														</p>
+														<p>El 2006 es un año hito para Bridgestone-Firestone Chile ya que se concreta el cierre definitivo de la planta de Alto Peñuelas, trasladando la producción a una planta de última generación en Brasil. Lo anterior marca un profundo proceso de reestructuración de la compañía en Chile, enfatizando en la importación de neumáticos desde principalmente Argentina, Brasil, Costa Rica, Estados Unidos, Japón y México.
+														</p>
+														<p>En 2009 la filial chilena simplifica su nombre a Bridgestone Chile.
+														</p>
+														<p>En el 2010 Bridgestone Corporation decide dejar de auspiciar a la Formula 1, orientando recursos publicitarios hacia el futbol, deporte que en América Latina representa ser una pasión de multitudes. Por esto que en los años 2011 y 2012 Bridgestone se transformó en sponsor oficial de la Copa Bridgestone Sudamericana, siendo el 2011 un año clave para Chile, ya que el campeón fue la Universidad de Chile. Lo anterior se complemento por el auspicio que la marca hizo en Chile a diferentes clubes del campeonato nacional.
+														</p>
+														<p>Hoy la compañía es orgulloso patrocinador oficial de la Copa Bridgestone Libertadores 2013, lo cual genera un positivo impacto en nuestros clientes, aficionados al futbol y medios especializados.
 														</p>
 													</section>
+													<div class="col-md-3 col-sm-4 col-xs-12" style="padding-bottom: 20px;">
+														<img alt="" style="width: 100%;" src="assets/img/br-logo-text.jpg">
+													</div>
 												</div>
 												<div class="tab-pane" id="tab3">
 													<div class="col-md-12" style="padding-bottom: 20px;">
@@ -369,24 +228,22 @@
 															<section id="contact-information">
 																<div class="row">
 																	<div class="col-md-5 col-sm-8">
-																		<header><h3>Where We Are</h3></header>
+																		<header><h3>Mapa</h3></header>
 																		<div id="contact-map"></div>
 																	</div>
 																	<div class="col-md-3 col-sm-4">
 																		<section id="address">
-																			<header><h3>Address</h3></header>
+																			<header><h3>Direción</h3></header>
 																			<address>
-																				<strong>Your Company</strong><br>
-																				4877 Spruce Drive<br>
-																				West Newton, PA 15089<br><br>
-																				
-																				+1 (734) 123-4567<br>
-																				<a href="#">hello@example.com</a><br>
-																				<strong>skype: </strong>your.company
+																				<strong>Dirección</strong><br>
+																				Avenida Presidente Kennedy 5735<br>
+																				Las Condes, Santiago<br><br>
+																				(2) 460 72 00 <br>
+																				<a href="mailto:servicioalcliente-Chile@la-bridgestone.com">servicioalcliente-Chile@la-bridgestone.com</a><br>
 																			</address>
 																		</section>
 																		<section id="social">
-																			<header><h3>Social Profiles</h3></header>
+																			<header><h3>Perfiles sociales</h3></header>
 																			<div class="agent-social">
 																				<a href="#" class="fa fa-twitter btn btn-grey-dark"></a>
 																				<a href="#" class="fa fa-facebook btn btn-grey-dark"></a>
@@ -396,18 +253,18 @@
 																	</div>
 																	<div class="col-md-4 col-sm-12">
 																		<section id="form">
-																			<header><h3>Send Us a Message</h3></header>
+																			<header><h3>Enviarle un mensaje</h3></header>
 																			<form role="form" id="form-contact" method="post"  class="clearfix">
 																				<div class="row">
 																					<div class="col-md-6">
 																						<div class="form-group">
-																							<label for="form-contact-name">Your Name<em>*</em></label>
+																							<label for="form-contact-name">Nombre<em>*</em></label>
 																							<input type="text" class="form-control" id="form-contact-name" name="form-contact-name" required>
 																						</div>
 																					</div>
 																					<div class="col-md-6">
 																						<div class="form-group">
-																							<label for="form-contact-email">Your Email<em>*</em></label>
+																							<label for="form-contact-email">Email<em>*</em></label>
 																							<input type="email" class="form-control" id="form-contact-email" name="form-contact-email" required>
 																						</div>
 																					</div>
@@ -415,7 +272,7 @@
 																				<div class="row">
 																					<div class="col-md-12">
 																						<div class="form-group">
-																							<label for="form-contact-message">Your Message<em>*</em></label>
+																							<label for="form-contact-message">Mensaje<em>*</em></label>
 																							<textarea class="form-control" id="form-contact-message" rows="4" name="form-contact-message" required></textarea>
 																						</div>
 																					</div>
@@ -441,6 +298,84 @@
 					</div>
 				</div>
 			</div>
+			<div class="modal fade detalle" role="dialog" aria-labelledby="gridSystemModalLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							<h4 class="center modal-title" id="gridSystemModalLabel">FICHA TÉCNICA</h4>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+									<section id="floor-plans">
+										<div class="floor-plans" style="text-align: center;margin-top: 20px;">
+											<img src="assets/img/properties/property-03.jpg" alt="" style="max-width: 100%;">
+										</div>
+									</section>
+									<div class="center">
+										<div class="ec-stars-wrapper">
+											<a href="#" data-value="1" title="Votar con 1 estrellas">&#9733;</a>
+											<a href="#" data-value="2" title="Votar con 2 estrellas">&#9733;</a>
+											<a href="#" data-value="3" title="Votar con 3 estrellas">&#9733;</a>
+											<a href="#" data-value="4" title="Votar con 4 estrellas">&#9733;</a>
+											<a href="#" data-value="5" title="Votar con 5 estrellas">&#9733;</a>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+									<section id="quick-summary" class="clearfix">
+										<dl>
+											<dt>MARCA</dt>
+											<dd><div class="property imagen-marca-ficha"><img alt="" src="assets/img/logo-bridgestone.jpg"></div></dd>
+											<dt>FAMILIA</dt>
+											<dd>Potenza</dd>
+											<dt>MODELO</dt>
+											<dd>RE760</dd>
+											<dt>MEDIDAS</dt>
+											<dd>205 55 R16</dd>
+											<dt>ÍNDICE DE CARGA/VEL.</dt>
+											<dd>H91</dd>
+											<dt>TIPO DE VEHÍCULO</dt>
+											<dd>
+												<div class="imagen-moto tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para moto"></div>
+												<div class="imagen-auto tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para auto"></div>
+												<div class="imagen-camioneta tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para camioneta"></div>
+												<div class="imagen-camion tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para camión"></div>
+												<div class="imagen-agricola tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático agrícola"></div>
+												<div class="imagen-forestal tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático forestal"></div>
+											<div class="imagen-horquilla tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para grúa horquilla"></div></dd>
+											<dt>ESTACIÓN</dt>
+											<dd>Toda estación</dd>
+											<dt>TIPO DE TERRENO</dt>
+											<dd>-</dd>
+											<dt>ANTIPINCHAZO</dt>
+											<dd>No</dd>
+											<dt>REFORZADO</dt>
+											<dd>Si</dd>
+											<dt>CLASIFICACIÓN DE CALIDAD</dt>
+											<dd>Desgaste: 340</dd>
+											<dd>Tracción: A</dd>
+											<dd>Temperatura: A</dd>
+										</dl>
+									</section>
+								</div>
+								<div class="row">
+									<div class="col-md-12 col-sm-12 col-xs-12">
+										<!-- /<div class="col-md-4 col-sm-4 col-xs-4">
+											<button type="submit" class="cerrar col-md-12 col-sm-12 col-xs-12" style="margin-bottom: 10px;" data-dismiss="modal" aria-label="Close">Cerrar</button>
+										</div> -->
+										<div class="col-md-12 col-sm-12 col-xs-12">
+											<button type="submit" class="buscar col-md-12 col-sm-12 col-xs-12" style="margin-bottom: 10px;" data-toggle="modal" data-target=".inicio">Cotizar</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+			</div><!-- /.modal -->
+			<!-- /.modal -->
 			<?php
 				include('footer.php');
 			?>

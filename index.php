@@ -52,15 +52,20 @@
 							<div class="row">
 								<div class="tab-wrap buscador-index col-lg-5 col-md-4">
 									<div class="buscador-top hidden-sm hidden-xs"></div>
-										<div class="media fondo-buscador">
-											<div class="row">
-												<div class="col-md-12">
-													<ul class="nav nav-tabs col-md-12 col-sm-12">
-														<li class="active nav-right col-md-6 col-sm-6 col-xs-6"><a href="#tab1" data-toggle="tab" class="tehnical">Buscar por Medida</a></li>
-														<li class="nav-left col-md-6 col-sm-6 col-xs-6"><a href="#tab2" data-toggle="tab" class="tehnical">Buscar por Vehículo</a></li>
-													</ul>
+									<div class="media fondo-buscador">
+										<div class="row">
+											<div class="col-md-12">
+												<ul class="nav nav-tabs col-md-12 col-sm-12">	
+													<li class="active nav-right col-md-6 col-sm-6 col-xs-6"><a href="#tab1" data-toggle="tab" class="tehnical">Buscar por Medida</a></li>
+													<li class="nav-left col-md-6 col-sm-6 col-xs-6"><a href="#tab2" data-toggle="tab" class="tehnical">Buscar por Vehículo</a></li>
+												</ul>
+											</div>
+											<div class="col-md-12">
+												<div class="center ayuda-index col-md-12">
+													<a href="#" data-toggle="modal" data-target=".inicio"><i class="fa fa-question"></i></a>
 												</div>
 											</div>
+										</div>
 										<div class="row parrent media-body">
 											<div class="tab-content">
 												<div class="tab-pane active" id="tab1">
@@ -314,20 +319,23 @@
 							<div class="ads">
 								<div class="col-md-4 col-sm-12 col-xs-12">
 									<div class="row">
-										<div class="ads-300 hidden-sm">ads</div>
+										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
 										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
+										<div class="ads-320  hidden-lg hidden-md hiden-sm">ads</div>
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-12 col-xs-12">
 									<div class="row">
-										<div class="ads-300 hidden-sm">ads</div>
+										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
 										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
+										<div class="ads-320  hidden-lg hidden-md hiden-sm">ads</div>
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-12 col-xs-12">
 									<div class="row">
-										<div class="ads-300 hidden-sm">ads</div>
+										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
 										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
+										<div class="ads-320  hidden-lg hidden-md hiden-sm">ads</div>
 									</div>
 								</div>
 							</div>
@@ -379,31 +387,29 @@
 				</section>
 				<section id="our-services" class="block back-service2">
 					<section id="fun-facts" class="container block counting-numbers">
-						<div class="row">
-							<div class="fun-facts">
-								<div class="col-md-3 col-sm-3">
-									<div class="number-wrapper">
-										<div class="number" data-from="1" data-to="10000">10000</div>
-										<figure>Productos</figure>
-									</div>
+						<div class="fun-facts">
+							<div class="col-md-3 col-sm-3">
+								<div class="number-wrapper">
+									<div class="number" data-from="1" data-to="10000">10000</div>
+									<figure>Productos</figure>
 								</div>
-								<div class="col-md-3 col-sm-3">
-									<div class="number-wrapper">
-										<div class="number" data-from="1" data-to="500">500</div>
-										<figure>Medidas</figure>
-									</div>
+							</div>
+							<div class="col-md-3 col-sm-3">
+								<div class="number-wrapper">
+									<div class="number" data-from="1" data-to="500">500</div>
+									<figure>Medidas</figure>
 								</div>
-								<div class="col-md-3 col-sm-3">
-									<div class="number-wrapper">
-										<div class="number" data-from="1" data-to="20">20</div>
-										<figure>Marcas</figure>
-									</div>
+							</div>
+							<div class="col-md-3 col-sm-3">
+								<div class="number-wrapper">
+									<div class="number" data-from="1" data-to="20">20</div>
+									<figure>Marcas</figure>
 								</div>
-								<div class="col-md-3 col-sm-3">
-									<div class="number-wrapper">
-										<div class="number" data-from="1" data-to="100">100</div>
-										<figure>Proveedores</figure>
-									</div>
+							</div>
+							<div class="col-md-3 col-sm-3">
+								<div class="number-wrapper">
+									<div class="number" data-from="1" data-to="100">100</div>
+									<figure>Proveedores</figure>
 								</div>
 							</div>
 						</div>
@@ -508,6 +514,44 @@
 					</aside>
 				</div>
 			</footer>
+			<div class="modal fade inicio" role="dialog" aria-labelledby="gridSystemModalLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							<h4 class="center modal-title" id="gridSystemModalLabel">¿CÓMO BUSCAR NEUMÁTICOS?</h4>
+						</div>
+						<div class="modal-body">
+							<div class="container-fluid">
+								<div class="row">
+									<div class="center col-lg-12">
+										<div class="center col-md-12">
+											Busca por la medida del neumático
+										</div>
+										<img alt="" src="assets/img/medida.png" style="margin-top: 10px; margin-bottom: 10px; max-width: 230px;">
+										<div class="col-lg-12">
+											<section id="description">
+												<p style="margin-top: 10px;">Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir.
+												</p>
+											</section>
+										</div>
+										<div class="center borde-registrar col-md-12">
+											Busca por el vehículo
+										</div>
+										<div class="col-lg-12">
+											<section id="description">
+												<p style="margin-top: 10px;">Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir.
+												</p>
+											</section>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+			</div><!-- /.modal -->
+			
 			<?php
 				include('footer.php');
 			?>
@@ -537,82 +581,5 @@
 		<script type="text/javascript" src="assets/js/waypoints.min.js"></script>
 		<script type="text/javascript" src="assets/js/jquery.countTo.js"></script>
 		
-		<script>
-			var _latitude = 48.87;
-			var _longitude = 2.29;
-
-			google.maps.event.addDomListener(window, 'load', initSubmitMap(_latitude,_longitude));
-			function initSubmitMap(_latitude,_longitude){
-				var mapCenter = new google.maps.LatLng(_latitude,_longitude);
-				var mapOptions = {
-					zoom: 15,
-					center: mapCenter,
-					disableDefaultUI: false,
-					//scrollwheel: false,
-					styles: mapStyles
-				};
-				var mapElement = document.getElementById('submit-map');
-				var map = new google.maps.Map(mapElement, mapOptions);
-				var marker = new MarkerWithLabel({
-					position: mapCenter,
-					map: map,
-					icon: 'assets/img/marker.png',
-					labelAnchor: new google.maps.Point(50, 0),
-					draggable: true
-				});
-				$('#submit-map').removeClass('fade-map');
-				google.maps.event.addListener(marker, "mouseup", function (event) {
-					var latitude = this.position.lat();
-					var longitude = this.position.lng();
-					$('#latitude').val( this.position.lat() );
-					$('#longitude').val( this.position.lng() );
-				});
-
-		//      Autocomplete
-				var input = /** @type {HTMLInputElement} */( document.getElementById('address-map') );
-				var autocomplete = new google.maps.places.Autocomplete(input);
-				autocomplete.bindTo('bounds', map);
-				google.maps.event.addListener(autocomplete, 'place_changed', function() {
-					var place = autocomplete.getPlace();
-					if (!place.geometry) {
-						return;
-					}
-					if (place.geometry.viewport) {
-						map.fitBounds(place.geometry.viewport);
-					} else {
-						map.setCenter(place.geometry.location);
-						map.setZoom(17);
-					}
-					marker.setPosition(place.geometry.location);
-					marker.setVisible(true);
-					$('#latitude').val( marker.getPosition().lat() );
-					$('#longitude').val( marker.getPosition().lng() );
-					var address = '';
-					if (place.address_components) {
-						address = [
-							(place.address_components[0] && place.address_components[0].short_name || ''),
-							(place.address_components[1] && place.address_components[1].short_name || ''),
-							(place.address_components[2] && place.address_components[2].short_name || '')
-						].join(' ');
-					}
-				});
-
-			}
-
-			function success(position) {
-				initSubmitMap(position.coords.latitude, position.coords.longitude);
-				$('#latitude').val( position.coords.latitude );
-				$('#longitude').val( position.coords.longitude );
-			}
-
-			$('.geo-location').on("click", function() {
-				if (navigator.geolocation) {
-					$('#submit-map').addClass('fade-map');
-					navigator.geolocation.getCurrentPosition(success);
-				} else {
-					error('Geo Location is not supported');
-				}
-			});
-		</script>
 	</body>
 </html>

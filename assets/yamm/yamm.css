@@ -1,0 +1,65 @@
+/*!
+ * Yamm!3 - Yet another megamenu for Bootstrap 3
+ * http://geedmo.github.com/yamm3
+ * 
+ * @geedmo - Licensed under the MIT license
+ */
+.yamm {
+ background-color: #F3F3F3;
+}
+.yamm .nav,
+.yamm .collapse,
+.yamm .dropup,
+.yamm .dropdown {
+  position: static;
+  background-color: #F3F3F3;
+  -webkit-box-shadow: inset 0 0px 0 #ffffff;
+  box-shadow: inset 0 0px 0 #ffffff;
+}
+.yamm .container {
+  position: relative;
+}
+.yamm .dropdown-menu {
+  left: auto;
+}
+.yamm .yamm-content {
+  padding: 20px 30px;
+}
+.yamm .dropdown.yamm-fw .dropdown-menu {
+  left: 0;
+  right: 0;
+  border: 0px;
+    -webkit-box-shadow: inset 0 0px 0 #ffffff;
+	box-shadow: inset 0 0px 0 #ffffff;
+	background-color: #F3F3F3;
+}
+.margin-0 {
+  margin-bottom: 0px;
+  border: 0px;
+  -webkit-box-shadow: inset 0 0px 0 #ffffff;
+  box-shadow: inset 0 0px 0 #ffffff;
+}
+.padding15 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.menu {
+  border-bottom: 1px solid #333;
+  background-color: #000;
+}
+.menu-color {
+  background-color: #ffffff;
+}
+
+.menu-arriba li.dropdown a{
+	color: #fff;
+}
+.menu-arriba li.dropdown a:hover{
+	color: #E30A00;
+}
+.menu-arriba li.dropdown.open{
+}
+.padding0{
+   padding-left: 0px;
+   padding-right: 0px;
+}

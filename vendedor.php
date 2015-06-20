@@ -30,19 +30,13 @@
 										</ol>
 										<div class="carousel-inner" role="listbox">
 											<div class="item active">
-												<img src="assets/img/br-01.jpg" class="" alt="..." />
+												<img src="assets/img/slide-01.jpg" class="" alt="..." />
 												<div class="carousel-caption">
 												...
 												</div>
 											</div>
 											<div class="item">
-												<img src="assets/img/br-02.jpg" class="" alt="..." />
-												<div class="carousel-caption">
-												...
-												</div>
-											</div>
-											<div class="item">
-												<img src="assets/img/br-03.jpg" alt="..." />
+												<img src="assets/img/slide-02.jpg" class="" alt="..." />
 												<div class="carousel-caption">
 												...
 												</div>
@@ -59,22 +53,22 @@
 												<div class="col-md-3 col-sm-3">
 													<div class="logo-taller-lg hidden-md hidden-sm hidden-xs">
 														<div class="logo-taller">
-															<img alt="" src="assets/img/logo-cuadrado-br.jpg">
+															<img alt="" src="assets/img/logo-cuadrado.jpg">
 														</div>
 													</div>
 													<div class="logo-taller-md hidden-lg hidden-sm hidden-xs">
 														<div class="logo-taller">
-															<img alt="" src="assets/img/logo-cuadrado-br.jpg">
+															<img alt="" src="assets/img/logo-cuadrado.jpg">
 														</div>
 													</div>
 													<div class="logo-taller-sm hidden-lg hidden-md hidden-xs">
 														<div class="logo-taller">
-															<img alt="" src="assets/img/logo-cuadrado-br.jpg">
+															<img alt="" src="assets/img/logo-cuadrado.jpg">
 														</div>
 													</div>
 													<div class="logo-taller-xs hidden-lg hidden-md hidden-sm">
 														<div class="logo-tallerxs">
-															<img alt="" src="assets/img/logo-cuadrado-br.jpg">
+															<img alt="" src="assets/img/logo-cuadrado.jpg">
 														</div>
 													</div>
 												</div>
@@ -107,7 +101,7 @@
 																		<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
 																			<div class="row">
 																				<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-right: 6px;">
-																					<select name="marcas" size="3" multiple>
+																					<select name="marcas" size="3">
 																						<option value="0" selected>Ancho</option>
 																						<option value="1">Bridgestone</option>
 																						<option value="2">Pirelli</option>
@@ -133,7 +127,7 @@
 																					</select>
 																				</div>
 																				<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-right: 3px; padding-left: 3px;">
-																					<select name="marcas" size="1" multiple>
+																					<select name="marcas" size="1">
 																						<option value="0" selected>Perfil</option>
 																						<option value="1">Bridgestone</option>
 																						<option value="2">Pirelli</option>
@@ -159,7 +153,7 @@
 																					</select>
 																				</div>
 																				<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-left: 6px;">
-																					<select name="marcas" size="1" multiple>
+																					<select name="marcas" size="1">
 																						<option value="0" selected>Aro</option>
 																						<option value="1">Bridgestone</option>
 																						<option value="2">Pirelli</option>
@@ -184,6 +178,37 @@
 																						<option value="21">Ling Long</option>
 																					</select>
 																				</div>
+																			</div>
+																			<div class="form-group">
+																				<div class="price-range">
+																					<input id="price-input" type="text" name="price" value="1000;299000">
+																				</div>
+																			</div>
+																			<div class="form-group">
+																				<select name="marcas" size="1" multiple>
+																					<option value="0" selected>Todas las Marcas</option>
+																					<option value="1">Bridgestone</option>
+																					<option value="2">Pirelli</option>
+																					<option value="3">Michelin</option>
+																					<option value="4">Continental</option>
+																					<option value="5">Firestone</option>
+																					<option value="6">Kumho</option>
+																					<option value="7">Continental</option>
+																					<option value="8">Maxxis</option>
+																					<option value="9">Hankook</option>
+																					<option value="10">Nexen</option>
+																					<option value="11">General Tire</option>
+																					<option value="12">Westlake</option>
+																					<option value="13">Dunlop</option>
+																					<option value="14">Yokohama</option>
+																					<option value="15">Cooper</option>
+																					<option value="16">Sumitomo</option>
+																					<option value="17">Bfgoodrich</option>
+																					<option value="18">Fuzion</option>
+																					<option value="19">Sonar</option>
+																					<option value="20">Goodride</option>
+																					<option value="21">Ling Long</option>
+																				</select>
 																			</div>
 																			<div class="form-group">
 																				<select name="indice" size="1" multiple>
@@ -282,12 +307,37 @@
 																				</label>
 																			</div>
 																		</div>
-																		<div class="detalles col-md-12 col-sm-12">	
-																			<div class="btn-detalles taller col-md-12 col-sm-12 col-xs-12"><a href="property-detail.html"><i class="fa fa-shopping-cart"></i> Buscar vendedores</a></div>
+																		<div class="detalles col-md-12 col-sm-12 col-xs-12">
+																			<header><figure>SERVICIOS ASOCIADOS DEL VENDEDOR</figure></header>
+																			<aside>
+																				<dl><div class="detalles col-md-6 col-sm-6 col-xs-6">
+																					<dt>Instalación</dt>
+																					<dd>SI</dd>
+																					<dt>Balanceo</dt>
+																					<dd>SI</dd>
+																					</div>
+																					<div class="detalles col-md-6 col-sm-6 col-xs-6">
+																						<dt>Alineación</dt>
+																						<dd>SI</dd>
+																						<dt>Despacho</dt>
+																						<dd>SI</dd>
+																					</div>
+																				</dl>
+																			</aside>
+																		</div>
+																		<div class="detalles col-md-12 col-sm-12">
+																			<div class="precio">$100.000</div>
+																			<div class="precio-back">Antes $100.000</div>
+																			<div class="btn-detalles taller col-md-12 col-sm-12 col-xs-12"><a href="property-detail.html"><i class="fa fa-shopping-cart"></i> Cotizar</a></div>
 																		</div>
 																	</div>
 																</div>
-																<div class="center col-md-12 col-sm-12">
+																<div class="ads">
+																	<div class="ads-728 hidden-xs hidden-md">ads</div>
+																	<div class="ads-468 hidden-xs hidden-sm hidden-lg">ads</div>
+																	<div class="ads-250 hidden-sm hidden-md hidden-lg">ads</div>
+																</div>
+																<div class="center">
 																	<ul class="pagination">
 																		<li class="active"><a href="#">1</a></li>
 																		<li><a href="#">2</a></li>
