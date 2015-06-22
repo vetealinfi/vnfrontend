@@ -74,7 +74,7 @@
 															<aside id="edit-search">
 																<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
 																	<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-right: 6px;">
-																		<select name="marcas" size="3" multiple>
+																		<select name="marcas" size="3">
 																			<option value="0" selected>Ancho</option>
 																			<option value="1">Bridgestone</option>
 																			<option value="2">Pirelli</option>
@@ -100,7 +100,7 @@
 																		</select>
 																	</div>
 																	<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-right: 3px; padding-left: 3px;">
-																		<select name="marcas" size="1" multiple>
+																		<select name="marcas" size="1">
 																			<option value="0" selected>Perfil</option>
 																			<option value="1">Bridgestone</option>
 																			<option value="2">Pirelli</option>
@@ -126,7 +126,7 @@
 																		</select>
 																	</div>
 																	<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-left: 6px;">
-																		<select name="marcas" size="1" multiple>
+																		<select name="marcas" size="1">
 																			<option value="0" selected>Aro</option>
 																			<option value="1">Bridgestone</option>
 																			<option value="2">Pirelli</option>
@@ -152,7 +152,7 @@
 																		</select>
 																	</div>
 																	<div class="form-group col-md-12 col-sm-12">
-																		<select name="marcas" size="1" multiple>
+																		<select name="marcas" size="1">
 																			<option value="0" selected>Región</option>
 																			<option value="1">Bridgestone</option>
 																			<option value="2">Pirelli</option>
@@ -178,7 +178,7 @@
 																		</select>
 																	</div>
 																	<div class="form-group col-lg-12 col-sm-12">
-																		<select name="marcas" size="1" multiple>
+																		<select name="marcas" size="1">
 																			<option value="0" selected>Comuna</option>
 																			<option value="1">Bridgestone</option>
 																			<option value="2">Pirelli</option>
@@ -208,7 +208,6 @@
 																	</div>
 																</form>
 															</aside>
-							
 														</section>
 													</div>
 												</div>
@@ -218,7 +217,7 @@
 															<aside id="edit-search">
 																<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
 																	<div class="form-group col-md-12 col-sm-12">
-																		<select name="marcas" size="3" multiple>
+																		<select name="marcas" size="3">
 																			<option value="0" selected>Ancho</option>
 																			<option value="1">Bridgestone</option>
 																			<option value="2">Pirelli</option>
@@ -244,7 +243,7 @@
 																		</select>
 																	</div>
 																	<div class="form-group col-md-12 col-sm-12">
-																		<select name="marcas" size="1" multiple>
+																		<select name="marcas" size="1">
 																			<option value="0" selected>Región</option>
 																			<option value="1">Bridgestone</option>
 																			<option value="2">Pirelli</option>
@@ -270,7 +269,7 @@
 																		</select>
 																	</div>
 																	<div class="form-group col-lg-12 col-sm-12">
-																		<select name="marcas" size="1" multiple>
+																		<select name="marcas" size="1">
 																			<option value="0" selected>Comuna</option>
 																			<option value="1">Bridgestone</option>
 																			<option value="2">Pirelli</option>
@@ -312,7 +311,7 @@
 					</div>
 				</div>
 			</div>
-			<section id="our-services" class="block back-service">
+			<section id="publicidad" class="block back-service">
 				<section id="our-services" class="block back-service0">
 					<div class="container">
 						<div class="row">
@@ -321,21 +320,125 @@
 									<div class="row">
 										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
 										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
-										<div class="ads-320  hidden-lg hidden-md hiden-sm">ads</div>
+										<div class="ads-320  hidden-lg hidden-md hidden-sm">ads</div>
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-12 col-xs-12">
 									<div class="row">
 										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
 										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
-										<div class="ads-320  hidden-lg hidden-md hiden-sm">ads</div>
+										<div class="ads-320  hidden-lg hidden-md hidden-sm">ads</div>
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-12 col-xs-12">
 									<div class="row">
 										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
 										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
-										<div class="ads-320  hidden-lg hidden-md hiden-sm">ads</div>
+										<div class="ads-320  hidden-lg hidden-md hidden-sm">ads</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section id="our-services" class="block back-service1">
+					<div class="container">
+						<header class="section-title"><h2>Nuestros Servicios</h2></header>
+						<div class="row">
+							<div class="col-md-4 col-sm-4 col-xs-12">
+								<div class="feature-box col-md-4 col-sm-6 col-xs-3">
+									<figure class="icon"><img src="assets/img/vendedores-en-todo-chile.png"></figure>
+								</div>
+								<div class="feature-box col-md-8 col-sm-12 col-xs-9">
+									<aside class="description">
+										<header><h3>VENDEDORES EN TODO CHILE</h3></header>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+										<a href="properties-listing.html" class="link-arrow">Read More</a>
+									</aside>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-4 col-xs-12">
+								<div class="feature-box col-md-4 col-sm-6 col-xs-3">
+									<figure class="icon"><img src="assets/img/facturas-rapidas.png"></figure>
+								</div>
+								<div class="feature-box col-md-8 col-sm-12 col-xs-9">
+									<aside class="description">
+										<header><h3>COTIZACIONES RÁPIDAS</h3></header>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+										<a href="properties-listing.html" class="link-arrow">Read More</a>
+									</aside>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-4 col-xs-12">
+								<div class="feature-box col-md-4 col-sm-6 col-xs-3">
+									<figure class="icon"><img src="assets/img/variedad-marcas.png"></figure>
+								</div>
+								<div class="feature-box col-md-8 col-sm-12 col-xs-9">
+									<aside class="description">
+										<header><h3>VARIEDAD EN MARCAS Y MEDIDAS</h3></header>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+										<a href="properties-listing.html" class="link-arrow">Read More</a>
+									</aside>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section id="our-services" class="block back-service2">
+					<section id="fun-facts" class="container block counting-numbers">
+						<div class="fun-facts">
+							<div class="col-md-3 col-sm-3">
+								<div class="number-wrapper">
+									<div class="number" data-from="1" data-to="10000">10000</div>
+									<figure>Productos</figure>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-3">
+								<div class="number-wrapper">
+									<div class="number" data-from="1" data-to="500">500</div>
+									<figure>Medidas</figure>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-3">
+								<div class="number-wrapper">
+									<div class="number" data-from="1" data-to="20">20</div>
+									<figure>Marcas</figure>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-3">
+								<div class="number-wrapper">
+									<div class="number" data-from="1" data-to="100">100</div>
+									<figure>Proveedores</figure>
+								</div>
+							</div>
+						</div>
+					</section>
+				</section>
+			</section>
+			<section id="publicidad" class="block back-service">
+				<section id="our-services" class="block back-service0">
+					<div class="container">
+						<div class="row">
+							<div class="ads">
+								<div class="col-md-4 col-sm-12 col-xs-12">
+									<div class="row">
+										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
+										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
+										<div class="ads-320  hidden-lg hidden-md hidden-sm">ads</div>
+									</div>
+								</div>
+								<div class="col-md-4 col-sm-12 col-xs-12">
+									<div class="row">
+										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
+										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
+										<div class="ads-320  hidden-lg hidden-md hidden-sm">ads</div>
+									</div>
+								</div>
+								<div class="col-md-4 col-sm-12 col-xs-12">
+									<div class="row">
+										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
+										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
+										<div class="ads-320  hidden-lg hidden-md hidden-sm">ads</div>
 									</div>
 								</div>
 							</div>

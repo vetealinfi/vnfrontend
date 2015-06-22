@@ -29,7 +29,13 @@
 				</div>
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-9 col-md-12 col-sm-12">
+						<div class="ads hidden-lg hidden-md hidden-xs">
+							<div class="ads-728">ads</div>
+						</div>
+						<div class="ads hidden-lg hidden-md hidden-sm">
+							<div class="ads-320">ads</div>
+						</div>
+						<div class="col-lg-9 col-md-8 col-sm-12">
 							<section id="property-detail">
 								<div class="row">
 									<div class="col-lg-11 col-md-11 col-sm-12 col-xs-12">
@@ -51,11 +57,11 @@
 									<div class="col-lg-3 col-md-3 col-sm-3">
 										<section id="floor-plans">
 											<div class="floor-plans" style="text-align: center;margin-top: 20px;">
-											<a href="assets/img/properties/property-03.jpg" class="image-popup"><img src="assets/img/properties/property-03.jpg" alt="" style="max-width: 100%;"></a>
+											<a href="assets/img/properties/property-03.jpg" class="image-popup"><img src="assets/img/properties/property-03.jpg" alt="" style="max-width: 100%;"><div class="ampliar-imagen"><i class="fa fa-search-plus"></i> Ampliar imagen</div></a>
 											</div>
 										</section>
 									</div>
-									<div class="col-lg-6 col-md-6 col-sm-6">
+									<div class="col-lg-6 col-md-5 col-sm-6">
 										<section id="description">
 											<header>
 												<h2>Descripción <div class="ec-stars-wrapper">
@@ -66,8 +72,15 @@
 													<a href="#" data-value="5" title="Votar con 5 estrellas">&#9733;</a>
 												</div></h2>
 											</header>
-											<p>
-												Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir. Desde el momento en que cambie de velocidad y de vuelta al volante, la RE760 Sport entra en acción dándole una rápida respuesta y precisión en el control. Quedará impresionado con su poderoso agarre y estabilidad en condiciones secas y mojadas. Y al combinar el estimulante desempeño en la capa de rodamiento optimizado que reduce el ruido, es probable que se vuelva adicto a las carreteras.</p> <p>• El diseño espectacular y deportivo que esta llanta ofrece, cautiva desde el primer momento</p>
+											<p>Al fin una llanta que permite a los conductores de cualquier vehículo, 
+												en cualquier carretera, maximizar el placer de conducir. Desde el momento 
+												en que cambie de velocidad y de vuelta al volante, la RE760 Sport entra 
+												en acción dándole una rápida respuesta y precisión en el control. Quedará 
+												impresionado con su poderoso agarre y estabilidad en condiciones secas y 
+												mojadas. Y al combinar el estimulante desempeño en la capa de rodamiento 
+												optimizado que reduce el ruido, es probable que se vuelva adicto a las 
+												carreteras.
+											</p>
 										</section>
 										<!-- /#redes -->
 										<div class="redes">
@@ -88,7 +101,7 @@
 										</div>                      
 										<!-- /#redes fin -->
 									</div>
-									<div class="col-lg-3 col-md-3 col-sm-3">
+									<div class="col-lg-3 col-md-4 col-sm-3">
 										<section id="quick-summary" class="clearfix">
 											<header><h2>Ficha Técnica</h2></header>
 											<dl>
@@ -126,63 +139,74 @@
 											</dl>
 										</section>
 									</div>
-									<hr class="thick">
 								</div>
 							</section>
-							<div class="row">
-								<div class="col-lg-12 col-md-8">
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv 
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
-									wevervwerbvwerbwerv werv wervw ev wervwe rv wev wev wef vwe rvw evwe vwerv wervwer vwe rv werv  er vefv
+							<hr class="thick">
+							<div class="box-detalle col-md-12">
+								<div class="buscar-detalle">
+									Buscar vendedores del neumático
 								</div>
-								<div class="ads">
-									<div class="col-md-4 col-sm-12 col-xs-12">
-										<div class="row">
-											<div class="ads-250 hidden-sm hidden-lg">ads</div>
-											<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
+								<div class="row">
+									<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
+										<div class="form-group col-sm-4">
+											<select name="marcas" size="1">
+												<option value="0" selected>Región</option>
+												<option value="1">Bridgestone</option>
+												<option value="2">Pirelli</option>
+												<option value="3">Michelin</option>
+												<option value="18">Fuzion</option>
+												<option value="19">Sonar</option>
+												<option value="20">Goodride</option>
+												<option value="21">Ling Long</option>
+											</select>
 										</div>
-									</div>
-									<div class="col-md-4 col-sm-12 col-xs-12">
-										<div class="row">
-											<div class="ads-250 hidden-sm hidden-lg">ads</div>
-											<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
+										<div class="form-group col-sm-4">
+											<select name="marcas" size="1">
+												<option value="0" selected>Comuna</option>
+												<option value="1">Bridgestone</option>
+												<option value="2">Pirelli</option>
+												<option value="3">Michelin</option>
+												<option value="4">Continental</option>
+												<option value="5">Firestone</option>
+												<option value="6">Kumho</option>
+											</select>
 										</div>
-									</div>
-									<div class="col-md-4 col-sm-12 col-xs-12">
-										<div class="row">
-											<div class="ads-250 hidden-sm hidden-lg">ads</div>
-											<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
+										<div class="form-group col-sm-4">
+											<button type="submit" class="buscar">Ver Resultados</button>
 										</div>
-									</div>
+									</form>
 								</div>
 							</div>
+							<hr class="thick">
+							<div class="fb-comments" data-href="https://www.facebook.com/pages/Venta-Neumaticos/784231555004553" data-width="100%" data-numposts="5"></div>
 						</div>
-						<div class="col-lg-3 hidden-xs hidden-sm hidden-md">
-							<div class="ads">
-								<div class="ads-250">ads
-								</div>
-								<div class="ads-250">ads
-								</div>
-								<div class="ads-250">ads
+						<div class="col-lg-3 col-md-4">
+							<div class="ads hidden-sm hidden-xs">
+								<div class="ads-250">ads</div>
+								<div class="ads-250">ads</div>
+								<div class="ads-250">ads</div>
+							</div>
+							<div class="ads hidden-lg hidden-md hidden-xs">
+								<div class="ads-728">ads</div>
+							</div>
+							<div class="ads hidden-lg hidden-md hidden-xs">
+								<div class="ads-728">ads</div>
+							</div>
+							<div class="ads hidden-lg hidden-md hidden-sm">
+								<div class="ads-320">ads</div>
+							</div>
+							<div class="ads hidden-lg hidden-md hidden-sm">
+								<div class="ads-320">ads</div>
+							</div>
+							<div class="fb-page face hidden-sm" data-href="https://www.facebook.com/pages/Venta-Neumaticos/784231555004553" data-width="90%" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
+								<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/pages/Venta-Neumaticos/784231555004553">
+									<a href="https://www.facebook.com/pages/Venta-Neumaticos/784231555004553">Venta Neumaticos</a></blockquote>
 								</div>
 							</div>
+							<section id="description">
+								<p>
+								Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir. Desde el momento en que cambie de velocidad y de vuelta al volante, la RE760 Sport entra en acción dándole una rápida respuesta y precisión en el control. Quedará impresionado con su poderoso agarre y estabilidad en condiciones secas y mojadas. Y al combinar el estimulante desempeño en la capa de rodamiento optimizado que reduce el ruido, es probable que se vuelva adicto a las carreteras. • El diseño espectacular y deportivo que esta llanta ofrece, cautiva desde el primer momento</p>
+							</section>
 						</div>
 					</div>
 				</div>
@@ -233,5 +257,13 @@
 		  {lang: 'es-419'}
 		</script>
 		<!-- google + fin -->
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.3";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
 	</body>
 </html>

@@ -26,7 +26,7 @@
 						<div class="row">
 							<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 								<!-- Grid demo navbar -->
-								<div class="navbar navbar-default yamm">
+								<div class="navbar-default yamm">
 									<div class="row">
 										<div class="navbar-header col-lg-2 col-md-2 col-sm-3 col-xs-12">
 											<div class="navbar-header">
@@ -85,51 +85,24 @@
 																				</div><!-- End Item -->                                
 																			</div><!-- End Carousel Inner -->
 																		</div><!-- /.carousel -->
-																		<div class="col-md-12 ul-menu">
+																		<div class="col-md-12 col-sm-12 ul-menu">
 																			<ul>
-																				<li><a href="#">Ver todas las ofertas<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
+																				<a href="#"><li>Ver más ofertas<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
 																			</ul>
 																		</div>
 																	</div>
 																	<div class="col-md-9 col-sm-8">
 																		<header><h2>Marcas de neumáticos</h2></header>
 																		<div class="marca-neumatico">
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
-																			<a href="#"><img src="assets/img/logo.png" alt="brand"></a>
+																			<a href="marca.php"><img src="assets/img/logo.png" class="img-responsive" alt="brand"></a>
+																			<a href="marca.php"><img src="assets/img/logo.png" class="img-responsive" alt="brand"></a>
+																			<a href="marca.php"><img src="assets/img/logo.png" class="img-responsive" alt="brand"></a>
+																			<a href="marca.php"><img src="assets/img/logo.png" class="img-responsive" alt="brand"></a>
+																			<a href="marca.php"><img src="assets/img/logo.png" class="img-responsive" alt="brand"></a>
+																			<a href="marca.php"><img src="assets/img/logo.png" class="img-responsive" alt="brand"></a>
+																			<a href="marca.php"><img src="assets/img/logo.png" class="img-responsive" alt="brand"></a>
+																			<a href="marca.php"><img src="assets/img/logo.png" class="img-responsive" alt="brand"></a>
+																			<a href="marca.php"><img src="assets/img/logo.png" class="img-responsive" alt="brand"></a>
 																		</div>
 																	</div>
 																</div>
@@ -141,60 +114,77 @@
 														<ul class="dropdown-menu">
 															<li class="grid-demo padding15">
 																<div class="row">
-																	<div class="col-md-3 col-sm-6">
+																	<div class="col-md-3 col-sm-3">
 																		<header><h2>Zona Norte</h2></header>
-																		<div class="col-md-12 col-sm-6 ul-menu">
+																		<div class="col-md-12 col-sm-12 ul-menu">
 																			<ul>
-																				<li><a href="#">Arica<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Parinacota<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Iquique<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Tamarugal<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Antofagasta<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">El Loa<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Tocopilla<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Copiapó<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Chañaral<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Huasco<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Elqui<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Choapa<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
+																				<a href="lista-vendedores.php"><li>Arica<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Parinacota<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Iquique<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Tamarugal<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Antofagasta<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Tocopilla<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Copiapó<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Chañaral<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Huasco<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Elqui<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Choapa<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
 																			</ul>
 																		</div>
 																	</div>
-																	<div class="col-md-3 col-sm-6">
+																	<div class="col-md-3 col-sm-3">
 																		<header><h2>Zona Centro</h2></header>
-																		<div class="col-md-12 col-sm-6 ul-menu">
+																		<div class="col-md-12 col-sm-12 ul-menu">
 																			<ul>
-																				<li><a href="#">Arica<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Parinacota<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Iquique<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Tamarugal<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Antofagasta<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">El Loa<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Tocopilla<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Copiapó<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Chañaral<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Huasco<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Elqui<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Choapa<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
+																				<a href="lista-vendedores.php"><li>Arica<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Parinacota<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Iquique<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Tamarugal<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Antofagasta<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Tocopilla<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Copiapó<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Chañaral<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Huasco<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Elqui<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Choapa<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
 																			</ul>
 																		</div>
-																		
 																	</div>
-																	<div class="col-md-3 col-sm-6">
+																	<div class="col-md-3 col-sm-3">
 																		<header><h2>Zona Sur</h2></header>
-																		<div class="col-md-12 col-sm-6 ul-menu">
+																		<div class="col-md-12 col-sm-12 ul-menu">
 																			<ul>
-																				<li><a href="#">Arica<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Iquique<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Antofagasta<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Calama<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Copiapó<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
-																				<li><a href="#">Vallenar<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></a></li>
+																				<a href="lista-vendedores.php"><li>Arica<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Parinacota<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Iquique<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Tamarugal<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Antofagasta<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Tocopilla<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Copiapó<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Chañaral<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Huasco<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Elqui<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Choapa<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
 																			</ul>
 																		</div>
 																	</div>
-																	<div class="col-md-3 col-sm-6">
+																	<div class="col-md-3 col-sm-3">
 																		<header><h2>Buscar en Mapa</h2></header>
+																		<ul>
+																			<li class="dropdown-header">Accessories</li>
+																			<li><a href="#">Default Navbar</a></li>
+																			<li><a href="#">Lovely Fonts</a></li>
+																			<li><a href="#">Responsive Dropdown </a></li>							
+																			<li class="divider"></li>
+																			<li class="dropdown-header">Newsletter</li>
+																			<form class="form" role="form">
+																				<div class="form-group">
+																					<label class="sr-only" for="email">Email address</label>
+																					<input type="email" class="form-control" id="email" placeholder="Enter email">                                                              
+																				</div>
+																				<button type="submit" class="buscar">Buscar en mapa</button>
+																			</form>                                                       
+																		</ul>
 																	</div>
 																</div>
 															</li>
