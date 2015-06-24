@@ -5,6 +5,7 @@
 		include('head.php');
 	?>
 	<body class="navigation-fixed-top">
+		<?php include_once("analyticstracking.php") ?>
 		<div class="wrapper">
 			<?php
 				include('header.php');
@@ -22,19 +23,19 @@
 								</ol>
 								<div class="carousel-inner" role="listbox">
 									<div class="item active">
-										<img src="assets/img/slide-home.gif" class="" alt="..." />
+										<img src="assets/img/slide-home.gif" class="" alt="venta neumaticos" />
 										<div class="carousel-caption">
 										...
 										</div>
 									</div>
 									<div class="item">
-										<img src="assets/img/slide-home.gif" class="" alt="..." />
+										<img src="assets/img/slide-home.gif" class="" alt="venta neumaticos" />
 										<div class="carousel-caption">
 										...
 										</div>
 									</div>
 									<div class="item">
-										<img src="assets/img/slide-home.gif" alt="..." />
+										<img src="assets/img/slide-home.gif" alt="venta neumaticos" />
 										<div class="carousel-caption">
 										...
 										</div>
@@ -332,9 +333,9 @@
 								</div>
 								<div class="col-md-4 col-sm-12 col-xs-12">
 									<div class="row">
-										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
-										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
-										<div class="ads-320  hidden-lg hidden-md hidden-sm">ads</div>
+										<div class="ads-300  hidden-sm  hidden-xs"></div>
+										<div class="ads-728  hidden-lg hidden-md hidden-xs"></div>
+										<div class="ads-320  hidden-lg hidden-md hidden-sm"></div>
 									</div>
 								</div>
 							</div>
@@ -343,11 +344,11 @@
 				</section>
 				<section id="our-services" class="block back-service1">
 					<div class="container">
-						<header class="section-title"><h2>Nuestros Servicios</h2></header>
+						<header class="section-title"><h1>Servicios Venta Neumáticos en todo Chile</h1></header>
 						<div class="row">
 							<div class="col-md-4 col-sm-4 col-xs-12">
 								<div class="feature-box col-md-4 col-sm-6 col-xs-3">
-									<figure class="icon"><img src="assets/img/vendedores-en-todo-chile.png"></figure>
+									<figure class="icon"><img src="assets/img/vendedores-en-todo-chile.png" alt="vendedores en todo Chile"></figure>
 								</div>
 								<div class="feature-box col-md-8 col-sm-12 col-xs-9">
 									<aside class="description">
@@ -359,7 +360,7 @@
 							</div>
 							<div class="col-md-4 col-sm-4 col-xs-12">
 								<div class="feature-box col-md-4 col-sm-6 col-xs-3">
-									<figure class="icon"><img src="assets/img/facturas-rapidas.png"></figure>
+									<figure class="icon"><img src="assets/img/facturas-rapidas.png" alt="cotizaciones rapidas en neumaticos"></figure>
 								</div>
 								<div class="feature-box col-md-8 col-sm-12 col-xs-9">
 									<aside class="description">
@@ -371,111 +372,7 @@
 							</div>
 							<div class="col-md-4 col-sm-4 col-xs-12">
 								<div class="feature-box col-md-4 col-sm-6 col-xs-3">
-									<figure class="icon"><img src="assets/img/variedad-marcas.png"></figure>
-								</div>
-								<div class="feature-box col-md-8 col-sm-12 col-xs-9">
-									<aside class="description">
-										<header><h3>VARIEDAD EN MARCAS Y MEDIDAS</h3></header>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-										<a href="properties-listing.html" class="link-arrow">Read More</a>
-									</aside>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-				<section id="our-services" class="block back-service2">
-					<section id="fun-facts" class="container block counting-numbers">
-						<div class="fun-facts">
-							<div class="col-md-3 col-sm-3">
-								<div class="number-wrapper">
-									<div class="number" data-from="1" data-to="10000">10000</div>
-									<figure>Productos</figure>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-3">
-								<div class="number-wrapper">
-									<div class="number" data-from="1" data-to="500">500</div>
-									<figure>Medidas</figure>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-3">
-								<div class="number-wrapper">
-									<div class="number" data-from="1" data-to="20">20</div>
-									<figure>Marcas</figure>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-3">
-								<div class="number-wrapper">
-									<div class="number" data-from="1" data-to="100">100</div>
-									<figure>Proveedores</figure>
-								</div>
-							</div>
-						</div>
-					</section>
-				</section>
-			</section>
-			<section id="publicidad" class="block back-service">
-				<section id="our-services" class="block back-service0">
-					<div class="container">
-						<div class="row">
-							<div class="ads">
-								<div class="col-md-4 col-sm-12 col-xs-12">
-									<div class="row">
-										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
-										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
-										<div class="ads-320  hidden-lg hidden-md hidden-sm">ads</div>
-									</div>
-								</div>
-								<div class="col-md-4 col-sm-12 col-xs-12">
-									<div class="row">
-										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
-										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
-										<div class="ads-320  hidden-lg hidden-md hidden-sm">ads</div>
-									</div>
-								</div>
-								<div class="col-md-4 col-sm-12 col-xs-12">
-									<div class="row">
-										<div class="ads-300  hidden-sm  hidden-xs">ads</div>
-										<div class="ads-728  hidden-lg hidden-md hidden-xs">ads</div>
-										<div class="ads-320  hidden-lg hidden-md hidden-sm">ads</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-				<section id="our-services" class="block back-service1">
-					<div class="container">
-						<header class="section-title"><h2>Nuestros Servicios</h2></header>
-						<div class="row">
-							<div class="col-md-4 col-sm-4 col-xs-12">
-								<div class="feature-box col-md-4 col-sm-6 col-xs-3">
-									<figure class="icon"><img src="assets/img/vendedores-en-todo-chile.png"></figure>
-								</div>
-								<div class="feature-box col-md-8 col-sm-12 col-xs-9">
-									<aside class="description">
-										<header><h3>VENDEDORES EN TODO CHILE</h3></header>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-										<a href="properties-listing.html" class="link-arrow">Read More</a>
-									</aside>
-								</div>
-							</div>
-							<div class="col-md-4 col-sm-4 col-xs-12">
-								<div class="feature-box col-md-4 col-sm-6 col-xs-3">
-									<figure class="icon"><img src="assets/img/facturas-rapidas.png"></figure>
-								</div>
-								<div class="feature-box col-md-8 col-sm-12 col-xs-9">
-									<aside class="description">
-										<header><h3>COTIZACIONES RÁPIDAS</h3></header>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-										<a href="properties-listing.html" class="link-arrow">Read More</a>
-									</aside>
-								</div>
-							</div>
-							<div class="col-md-4 col-sm-4 col-xs-12">
-								<div class="feature-box col-md-4 col-sm-6 col-xs-3">
-									<figure class="icon"><img src="assets/img/variedad-marcas.png"></figure>
+									<figure class="icon"><img src="assets/img/variedad-marcas.png" alt="variedad de marcas de neumaticos"></figure>
 								</div>
 								<div class="feature-box col-md-8 col-sm-12 col-xs-9">
 									<aside class="description">
@@ -523,11 +420,11 @@
 				<div class="container">
 					<header class="section-title-2"><h2>Our Partners</h2></header>
 					<div class="logos">
-						<div class="logo"><a href=""><img src="assets/img/logo-partner-01.png" alt=""></a></div>
-						<div class="logo"><a href=""><img src="assets/img/logo-partner-02.png" alt=""></a></div>
-						<div class="logo"><a href=""><img src="assets/img/logo-partner-03.png" alt=""></a></div>
-						<div class="logo"><a href=""><img src="assets/img/logo-partner-04.png" alt=""></a></div>
-						<div class="logo"><a href=""><img src="assets/img/logo-partner-05.png" alt=""></a></div>
+						<div class="logo"><a href=""><img src="assets/img/logo-partner-01.png" alt="partner 1"></a></div>
+						<div class="logo"><a href=""><img src="assets/img/logo-partner-02.png" alt="partner 2"></a></div>
+						<div class="logo"><a href=""><img src="assets/img/logo-partner-03.png" alt="partner 3"></a></div>
+						<div class="logo"><a href=""><img src="assets/img/logo-partner-04.png" alt="partner 4 "></a></div>
+						<div class="logo"><a href=""><img src="assets/img/logo-partner-05.png" alt="partner 5"></a></div>
 					</div>
 				</div>
 			</section>
@@ -631,9 +528,9 @@
 										<div class="center col-md-12">
 											Busca por la medida del neumático
 										</div>
-										<img alt="" src="assets/img/medida.png" style="margin-top: 10px; margin-bottom: 10px; max-width: 230px;">
+										<img alt="medida de neumatico" src="assets/img/medida.png" style="margin-top: 10px; margin-bottom: 10px; max-width: 230px;">
 										<div class="col-lg-12">
-											<section id="description">
+										  <section id="description">
 												<p style="margin-top: 10px;">Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir.
 												</p>
 											</section>
@@ -678,8 +575,6 @@
 		<script type="text/javascript" src="assets/js/custom.js"></script>
 		<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&libraries=places"></script>
 		<script type="text/javascript" src="assets/js/markerwithlabel_packed.js"></script>
-		<script type="text/javascript" src="assets/js/fileinput.min.js"></script>
-		<script type="text/javascript" src="assets/js/custom-map.js"></script>
 		
 		<script type="text/javascript" src="assets/js/waypoints.min.js"></script>
 		<script type="text/javascript" src="assets/js/jquery.countTo.js"></script>

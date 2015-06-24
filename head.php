@@ -1,27 +1,27 @@
 	<head>
 		<meta charset="UTF-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>VentaNeumaticos.cl</title>
+		<title>Venta Neumaticos | Vendedores de neumáticos en todo Chile</title>
 		<link rel="canonical" href="http://www.ventaneumaticos.cl">
 		<meta http-equiv="Content-Language" content="es-cl">
-		<meta name="description" content="Venta de Neumaticos, gran stock de neumáticos, instalación neumáticos y despacho de neumáticos en Todo Chile"/>
+		<meta name="description" content="Venta Neumáticos | gran stock de neumaticos, instalación neumaticos y despacho de neumaticos en todo Chile"/>
 		<meta name="keywords" content="Neumaticos BRIDGESTONE, Venta de Neumaticos BRIDGESTONE, Neumaticos de auto, Neumaticos de Camioneta, Neumaticos de Camion"/>
 		<meta name="msvalidate.0" content="BCA4C5348CC7ABF40A3575640F07FF6F">
-		<meta name="abstract" content="Cambiatuneumatico.com: el mayor stock de neumaticos del país. Neumaticos en oferta para compra online. Tenemos las principales marcas de neumaticos">
+		<meta name="abstract" content="Venta Neumaticos: el mayor stock de neumaticos del país. Neumaticos en oferta para compra online. Tenemos las principales marcas de neumaticos">
 		<meta name="Submission" content="http://www.ventaneumaticos.cl/">
 		<meta name="distribution" content="Global">
-		<meta name="organization" content="VentaNeumaticos">
+		<meta name="organization" content="Venta Neumaticos">
 		<meta content="General" name="classification">
 		<meta name="category" content="neumaticos, neumáticos de camión, neumáticos baratos, neumaticos en oferta, neumáticos online.">
 		<meta name="identifier-url" content="http://www.ventaneumaticos.cl">
 		<meta name="resource-type" content="document">
 		<meta content="Santiago, Chile" name="locality">
-		<meta property="og:title" content="Neumaticos BRIDGESTONE | Neumaticos Cambiatuneumatico.com"/>
-		<meta property="og:description" content="Venta de Neumaticos, gran stock de neumáticos, instalación neumáticos y despacho de neumáticos en Todo Chile">
+		<meta property="og:title" content="Venta Neumaticos | Vendedores de neumáticos en todo Chile"/>
+		<meta property="og:description" content="Venta Neumáticos | gran stock de neumaticos, instalación neumaticos y despacho de neumaticos en todo Chile">
 		<meta property="og:image" content="http://www.ventaneumaticos.cl/resources/img/logo1200x630.jpg">
 		<meta property="og:url" content="https://www.ventaneumaticos.cl/neumaticos/bridgestone">
-		<meta property="twitter:title" content="Neumaticos | Neumaticos ventaneumaticos.cl"/>
-		<meta property="twitter:description" content="Venta de Neumaticos, gran stock de neumáticos, instalación neumáticos y despacho de neumáticos en Todo Chile">
+		<meta property="twitter:title" content="Venta Neumaticos | Vendedores de neumáticos en todo Chile"/>
+		<meta property="twitter:description" content="Venta Neumáticos | gran stock de neumaticos, instalación neumaticos y despacho de neumaticos en todo Chile">
 		<meta property="twitter:image" content="http://www.ventaneumaticos.cl/resources/img/logo1200x630.jpg">
 		<meta property="twitter:url" content="https://www.ventaneumaticos.cl/neumaticos/bridgestone">
 		<link href="https://plus.google.com/00000000" rel="publisher">
@@ -40,5 +40,4 @@
 		<link rel="stylesheet" href="assets/yamm/yamm.css" type="text/css">
 		<link rel="stylesheet" href="assets/css/validador.css" type="text/css">
 		<!-- /<link rel="icon" type="image/png" href="assets/img/favicon.png">-->
-		<title>Zoner | Properties Listing</title>
 	</head>
