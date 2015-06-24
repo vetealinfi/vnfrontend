@@ -39,18 +39,46 @@
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<div class="mapa-buscador right col-lg-3 col-md-4 col-sm-5 col-xs-12">
-									<div class="box-detalle col-md-12 hidden-xs">
+								<div class="col-lg-3 col-md-4 col-sm-12 col-xs-12">
+									<div class="ads hidden-sm hidden-xs">
+										<div class="ads-250">ads</div>
+										<div class="ads-250">ads</div>
+										<div class="ads-250">ads</div>
+									</div>
+									<div class="fb-page face hidden-sm hidden-xs	" data-href="https://www.facebook.com/pages/Venta-Neumaticos/784231555004553" data-width="90%" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
+										<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/pages/Venta-Neumaticos/784231555004553">
+											<a href="https://www.facebook.com/pages/Venta-Neumaticos/784231555004553">Venta Neumaticos</a></blockquote>
+										</div>
+									</div>
+									<section id="description" class="hidden-xs hidden-sm">
+										<header>
+										<h2>Neumáticos 205/55 R16 en Santiago</h2></header>
+										<p>
+										Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir. Desde el momento en que cambie de velocidad y de vuelta al volante, la RE760 Sport entra en acción dándole una rápida respuesta y precisión en el control. Quedará impresionado con su poderoso agarre y estabilidad en condiciones secas y mojadas. Y al combinar el estimulante desempeño en la capa de rodamiento optimizado que reduce el ruido, es probable que se vuelva adicto a las carreteras. • El diseño espectacular y deportivo que esta llanta ofrece, cautiva desde el primer momento</p>
+									</section>
+								</div>
+								
+								<div class="col-lg-9 col-md-8 col-sm-12 col-xs-12">
+									<div class="box-detalle-2 col-xs-12 hidden-xs">
+										<div class="row">
+											<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
+												<div class="col-lg-4 col-md-5 col-sm-5">
+													<p>
+													<input name="range" type="text" id="amount" style="border: 0; color: #FFFFFF; font-weight: bold; background-color: #333; text-align: center; box-shadow: none; margin-bottom: -6px; font-size: 23px;" readonly="readonly" />
+													</p>
+												</div>
+												<div class="form-group col-lg-8 col-md-7 col-sm-7">
+													<div id="slider-range" class="top-14" style="width:100%;"></div>
+												</div>
+											</form>
+										</div>
+									</div>
+									<div class="box-detalle-4 col-lg-4 col-md-5 col-sm-5 hidden-xs">
 										<div class="buscar-detalle">
-											Filtrar resultados
+											Filtros de neumáticos
 										</div>
 										<div class="row">
 											<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
-												<div class="form-group margen-bottom col-sm-12">
-													<div class="price-range">
-														<input id="price-input" type="text" name="price" value="1000;299000">
-													</div>
-												</div>
 												<!-- 
 													<div class="form-group col-sm-8">
 													<p>
@@ -58,6 +86,39 @@
 													</p>
 													<div id="slider-range" style="width:100%;"></div>
 												</div> -->
+												<div class="form-group form-right col-sm-4">
+													<select name="marcas" size="1">
+														<option value="0" selected>Ancho</option>
+														<option value="1">Bridgestone</option>
+														<option value="2">Pirelli</option>
+														<option value="3">Michelin</option>
+														<option value="4">Continental</option>
+														<option value="5">Firestone</option>
+														<option value="6">Kumho</option>
+													</select>
+												</div>
+												<div class="form-group form-center col-sm-4">
+													<select name="marcas" size="1">
+														<option value="0" selected>Perfil</option>
+														<option value="1">Bridgestone</option>
+														<option value="2">Pirelli</option>
+														<option value="3">Michelin</option>
+														<option value="4">Continental</option>
+														<option value="5">Firestone</option>
+														<option value="6">Kumho</option>
+													</select>
+												</div>
+												<div class="form-group form-left col-sm-4">
+													<select name="marcas" size="1">
+														<option value="0" selected>Aro</option>
+														<option value="1">Bridgestone</option>
+														<option value="2">Pirelli</option>
+														<option value="3">Michelin</option>
+														<option value="4">Continental</option>
+														<option value="5">Firestone</option>
+														<option value="6">Kumho</option>
+													</select>
+												</div>
 												<div class="form-group col-md-12 col-sm-12">
 													<select name="marcas" size="1" multiple>
 														<option value="0" selected>Marcas</option>
@@ -105,225 +166,204 @@
 											</form>
 										</div>
 									</div>
-									
-								</div>
-								<div class="buscador-mapa col-lg-9 col-md-8 col-sm-7 col-xs-12">
-									<div id="submit-map"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6658.712403992465!2d-70.64988365129136!3d-33.44002519020612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2scl!4v1428543458079" width="100%" height="100%" frameborder="0" style="border:0; height: 282px;"></iframe></div>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-4 col-sm-12 col-xs-12">
-							<div class="ads hidden-sm hidden-xs">
-								<div class="ads-250">ads</div>
-								<div class="ads-250">ads</div>
-								<div class="ads-250">ads</div>
-							</div>
-							<div class="fb-page face hidden-sm hidden-xs	" data-href="https://www.facebook.com/pages/Venta-Neumaticos/784231555004553" data-width="90%" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
-								<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/pages/Venta-Neumaticos/784231555004553">
-									<a href="https://www.facebook.com/pages/Venta-Neumaticos/784231555004553">Venta Neumaticos</a></blockquote>
-								</div>
-							</div>
-							<section id="description" class="hidden-xs hidden-sm">
-								<header>
-								<h2>Neumáticos 205/55 R16 en Santiago</h2></header>
-									<p>
-										Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir. Desde el momento en que cambie de velocidad y de vuelta al volante, la RE760 Sport entra en acción dándole una rápida respuesta y precisión en el control. Quedará impresionado con su poderoso agarre y estabilidad en condiciones secas y mojadas. Y al combinar el estimulante desempeño en la capa de rodamiento optimizado que reduce el ruido, es probable que se vuelva adicto a las carreteras. • El diseño espectacular y deportivo que esta llanta ofrece, cautiva desde el primer momento</p>
-							</section>
-						</div>
-						<div class="col-lg-9 col-md-8 col-sm-12">
-							<div class="hidden-xs">
-								<header class="property-title">
-									<h1>Neumáticos 205/55 R16 en Santiago</h1>
-								</header>
-							</div>
-							<div>
-								<div id="search-filter">
-									<figure>
-										<h3><i class="fa fa-search"></i>Search Results:</h3>
-										<span class="search-count">28</span>
-										<div class="sorting">
-											<div class="row">
-												<div class="form-group col-xs-6 hidden-lg hidden-md hidden-sm">
-													<button class="btn  filtros col-xs-6"" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-														Filtrar
-													</button>
-												</div>
-												<div class="collapse col-xs-12" id="collapseExample">
-													<div class="box-detalle col-md-12">
-														<div class="row">
-															<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
-																<div class="form-group col-sm-8">
-																	<p>
-																		<input name="range" type="text" id="amount" style="border: 0; color: #FFFFFF; font-weight: bold; background-color: #333; text-align: center; box-shadow: none; margin-bottom: -6px; font-size: 17px;" readonly="readonly" />
-																  </p>
-																	<div id="slider-range" style="width:100%;"></div>
+									<div class="mapa-precio col-lg-8 col-md-7 col-sm-7 hidden-xs">
+										<div id="submit-map"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6658.712403992465!2d-70.64988365129136!3d-33.44002519020612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2scl!4v1428543458079" width="100%" height="100%" frameborder="0" style="border:0; height: 282px;"></iframe></div>
+									</div>
+									<div class="hidden-xs">
+										<header class="property-title">
+											<h1>Neumáticos 205/55 R16 en Santiago</h1>
+										</header>
+									</div>
+									<div>
+										<div id="search-filter">
+											<figure>
+												<h3><i class="fa fa-search"></i>Search Results:</h3>
+												<span class="search-count">28</span>
+												<div class="sorting">
+													<div class="row">
+														<div class="form-group col-xs-6 hidden-lg hidden-md hidden-sm">
+															<button class="btn  filtros col-xs-6"" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+																Filtrar
+															</button>
+														</div>
+														<div class="collapse col-xs-12 hidden-lg hidden-md hidden-sm" id="collapseExample">
+															<div class="box-detalle col-md-12">
+																<div class="row">
+																	<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
+																		<div class="form-group col-sm-8">
+																			<p>
+																				<input name="range" type="text" id="colapsable" style="border: 0; color: #FFFFFF; font-weight: bold; background-color: #333; text-align: center; box-shadow: none; margin-bottom: -6px; font-size: 17px;" readonly="readonly" />
+																			</p>
+																			<div id="colapsable-range" style="width:100%;"></div>
+																		</div>
+																		<div class="form-group col-md-12 col-sm-12">
+																			<select name="marcas" size="1" multiple>
+																				<option value="0" selected>Marcas</option>
+																				<option value="1">Bridgestone</option>
+																				<option value="2">Pirelli</option>
+																				<option value="3">Michelin</option>
+																				<option value="4">Continental</option>
+																				<option value="5">Firestone</option>
+																				<option value="6">Kumho</option>
+																			</select>
+																		</div>
+																		<div class="form-group col-md-12 col-sm-12">
+																			<select name="indice" size="1" multiple>
+																				<option value="0" selected>Índices Carga/Velocidad</option>
+																				<option value="1">91H</option>
+																				<option value="2">91V</option>
+																				<option value="3">94W</option>
+																				<option value="4">89V</option>
+																			</select>
+																		</div>
+																		<div class="form-group col-md-12 col-sm-12">
+																			<select name="especifico">
+																				<option value="">Neumáticos Específicos</option>
+																				<option value="1">Antipinchazos</option>
+																				<option value="2">No antipinchazos</option>
+																			</select>
+																		</div>
+																		<div class="form-group col-sm-12">
+																			<select name="Tipo de vehículo">
+																				<option value=""> Tipos</option>
+																				<option value="1">Auto</option>
+																				<option value="2">Moto</option>
+																				<option value="3">Camioneta</option>
+																				<option value="4">Camión</option>
+																				<option value="5">Agrícola</option>
+																				<option value="4">Forestal</option>
+																				<option value="5">Bus</option>
+																				<option value="4">Grúa Horquilla</option>
+																				<option value="5">Maquinaria Pesada</option>
+																			</select>
+																		</div>
+																		<div class="form-group col-md-12 col-sm-12">
+																			<button type="submit" class="buscar">Filtrar</button>
+																		</div>
+																	</form>
 																</div>
-																<div class="form-group col-md-12 col-sm-12">
-																	<select name="marcas" size="1" multiple>
-																		<option value="0" selected>Marcas</option>
-																		<option value="1">Bridgestone</option>
-																		<option value="2">Pirelli</option>
-																		<option value="3">Michelin</option>
-																		<option value="4">Continental</option>
-																		<option value="5">Firestone</option>
-																		<option value="6">Kumho</option>
-																	</select>
-																</div>
-																<div class="form-group col-md-12 col-sm-12">
-																	<select name="indice" size="1" multiple>
-																		<option value="0" selected>Índices Carga/Velocidad</option>
-																		<option value="1">91H</option>
-																		<option value="2">91V</option>
-																		<option value="3">94W</option>
-																		<option value="4">89V</option>
-																	</select>
-																</div>
-																<div class="form-group col-md-12 col-sm-12">
-																	<select name="especifico">
-																		<option value="">Neumáticos Específicos</option>
-																		<option value="1">Antipinchazos</option>
-																		<option value="2">No antipinchazos</option>
-																	</select>
-																</div>
-																<div class="form-group col-sm-12">
-																	<select name="Tipo de vehículo">
-																		<option value=""> Tipos</option>
-																		<option value="1">Auto</option>
-																		<option value="2">Moto</option>
-																		<option value="3">Camioneta</option>
-																		<option value="4">Camión</option>
-																		<option value="5">Agrícola</option>
-																		<option value="4">Forestal</option>
-																		<option value="5">Bus</option>
-																		<option value="4">Grúa Horquilla</option>
-																		<option value="5">Maquinaria Pesada</option>
-																	</select>
-																</div>
-																<div class="form-group col-md-12 col-sm-12">
-																	<button type="submit" class="buscar">Filtrar</button>
-																</div>
-															</form>
+															</div>
+														</div>
+														<div class="form-group col-xs-6">
+															<select name="ordenar">
+																<option value="">Ordenar por</option>
+																<option value="1">Lowest price first</option>
+																<option value="2">Highest price first</option>
+																<option value="3">Date added</option>
+															</select>
 														</div>
 													</div>
 												</div>
-												<div class="form-group col-xs-6">
-													<select name="ordenar">
-														<option value="">Ordenar por</option>
-														<option value="1">Lowest price first</option>
-														<option value="2">Highest price first</option>
-														<option value="3">Date added</option>
+											</figure>
+										</div>
+										<div id="properties">
+											<div class="producto col-lg-4 col-md-4 col-sm-4">
+												<div class="marco">
+													<div class="margen col-md-6 col-sm-6 col-xs-6">
+														<figure class="ribbon">30% dcto</figure>
+														<a href="#" data-toggle="modal" data-target=".detalle"><img alt="" src="assets/img/properties/property-03.jpg"></a>
+													</div>
+													<div class="detalles col-md-6 col-sm-6 col-xs-6">
+														<header>
+															<div class="property imagen-marca"><img alt="" src="assets/img/logo-bridgestone.jpg"></div>
+															<div class="familia-modelo">POTENZA RE760</div>
+															<figure>205/55 R16 91H</figure>
+														</header>
+														<div class="rft tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático Runflat">RFT</div>
+														<div class="imagen-moto tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para moto"></div>
+														<div class="imagen-auto tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para auto"></div>
+														<div class="imagen-camioneta tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para camioneta"></div>
+														<div class="imagen-camion tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para camión"></div>
+														<div class="imagen-agricola tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático agrícola"></div>
+														<div class="imagen-forestal tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático forestal"></div>
+														<div class="imagen-horquilla tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para grúa horquilla"></div>
+														<div class="ec-stars-wrapper">
+															<a href="#" data-value="1" title="Votar con 1 estrellas">&#9733;</a>
+															<a href="#" data-value="2" title="Votar con 2 estrellas">&#9733;</a>
+															<a href="#" data-value="3" title="Votar con 3 estrellas">&#9733;</a>
+															<a href="#" data-value="4" title="Votar con 4 estrellas">&#9733;</a>
+															<a href="#" data-value="5" title="Votar con 5 estrellas">&#9733;</a>
+														</div>
+														<div class="checkbox">
+															<label>
+																<input type="checkbox">
+																comparar
+															</label>
+														</div>
+													</div>
+													<div class="detalles col-md-12 col-sm-12">
+														<div class="precio">$100.000</div>
+														<div class="precio-back">Antes $100.000</div>
+														<div class="btn-detalles taller col-md-6 col-sm-6 col-xs-6"><a href="#"><i class="fa fa-map-marker"></i> Ver en mapa</a></div>
+														<div class="btn-detalles taller col-md-6 col-sm-6 col-xs-6"><a href="#" data-toggle="modal" data-target=".inicio"><i class="fa fa-shopping-cart"></i> Cotizar</a></div>
+													</div>
+												</div>
+											</div>
+											<div class="center col-xs-12">
+												<ul class="pagination">
+													<li class="active"><a href="#">1</a></li>
+													<li><a href="#">2</a></li>
+													<li><a href="#">3</a></li>
+													<li><a href="#">4</a></li>
+													<li><a href="#">5</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<hr class="thick">
+									<div class="box-detalle col-xs-12">
+										<div class="buscar-detalle">
+											Buscar Resultados en otra ciudad
+										</div>
+										<div class="row">
+											<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
+												<div class="form-group col-sm-4">
+													<select name="marcas" size="1">
+														<option value="0" selected>Región</option>
+														<option value="1">Bridgestone</option>
+														<option value="2">Pirelli</option>
+														<option value="3">Michelin</option>
+														<option value="18">Fuzion</option>
+														<option value="19">Sonar</option>
+														<option value="20">Goodride</option>
+														<option value="21">Ling Long</option>
 													</select>
 												</div>
-											</div>
-										</div>
-									</figure>
-								</div>
-								<div id="properties">
-									<div class="producto col-lg-4 col-md-4 col-sm-4">
-										<div class="marco">
-											<div class="margen col-md-6 col-sm-6 col-xs-6">
-												<figure class="ribbon">30% dcto</figure>
-												<a href="#" data-toggle="modal" data-target=".detalle"><img alt="" src="assets/img/properties/property-03.jpg"></a>
-											</div>
-											<div class="detalles col-md-6 col-sm-6 col-xs-6">
-												<header>
-													<div class="property imagen-marca"><img alt="" src="assets/img/logo-bridgestone.jpg"></div>
-													<div class="familia-modelo">POTENZA RE760</div>
-													<figure>205/55 R16 91H</figure>
-												</header>
-												<div class="rft tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático Runflat">RFT</div>
-												<div class="imagen-moto tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para moto"></div>
-												<div class="imagen-auto tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para auto"></div>
-												<div class="imagen-camioneta tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para camioneta"></div>
-												<div class="imagen-camion tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para camión"></div>
-												<div class="imagen-agricola tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático agrícola"></div>
-												<div class="imagen-forestal tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático forestal"></div>
-												<div class="imagen-horquilla tool-tip"  data-toggle="tooltip" data-placement="top" title="Neumático para grúa horquilla"></div>
-												<div class="ec-stars-wrapper">
-													<a href="#" data-value="1" title="Votar con 1 estrellas">&#9733;</a>
-													<a href="#" data-value="2" title="Votar con 2 estrellas">&#9733;</a>
-													<a href="#" data-value="3" title="Votar con 3 estrellas">&#9733;</a>
-													<a href="#" data-value="4" title="Votar con 4 estrellas">&#9733;</a>
-													<a href="#" data-value="5" title="Votar con 5 estrellas">&#9733;</a>
+												<div class="form-group col-sm-4">
+													<select name="marcas" size="1">
+														<option value="0" selected>Comuna</option>
+														<option value="1">Bridgestone</option>
+														<option value="2">Pirelli</option>
+														<option value="3">Michelin</option>
+														<option value="4">Continental</option>
+														<option value="5">Firestone</option>
+														<option value="6">Kumho</option>
+													</select>
 												</div>
-												<div class="checkbox">
-													<label>
-														<input type="checkbox">
-														comparar
-													</label>
+												<div class="form-group col-sm-4">
+													<button type="submit" class="buscar">Ver Resultados</button>
 												</div>
-											</div>
-											<div class="detalles col-md-12 col-sm-12">
-												<div class="precio">$100.000</div>
-												<div class="precio-back">Antes $100.000</div>
-												<div class="btn-detalles taller col-md-6 col-sm-6 col-xs-6"><a href="#"><i class="fa fa-map-marker"></i> Ver en mapa</a></div>
-												<div class="btn-detalles taller col-md-6 col-sm-6 col-xs-6"><a href="#" data-toggle="modal" data-target=".inicio"><i class="fa fa-shopping-cart"></i> Cotizar</a></div>
-											</div>
+											</form>
 										</div>
 									</div>
-									<div class="center col-xs-12">
-										<ul class="pagination">
-											<li class="active"><a href="#">1</a></li>
-											<li><a href="#">2</a></li>
-											<li><a href="#">3</a></li>
-											<li><a href="#">4</a></li>
-											<li><a href="#">5</a></li>
-										</ul>
+									<div class="ads">
+										<div class="ads-728 hidden-xs hidden-md">ads</div>
+										<div class="ads-468 hidden-xs hidden-sm hidden-lg">ads</div>
+										<div class="ads-320 hidden-sm hidden-md hidden-lg">ads</div>
 									</div>
+									<div class="ads">
+										<div class="ads-728 hidden-xs hidden-md">ads</div>
+										<div class="ads-468 hidden-xs hidden-sm hidden-lg">ads</div>
+										<div class="ads-320 hidden-sm hidden-md hidden-lg">ads</div>
+									</div>
+									<section id="description" class="hidden-lg hidden-md">
+										<header>
+										<h2>Neumáticos 205/55 R16 en Santiago</h2></header>
+										<p>
+										Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir. Desde el momento en que cambie de velocidad y de vuelta al volante, la RE760 Sport entra en acción dándole una rápida respuesta y precisión en el control. Quedará impresionado con su poderoso agarre y estabilidad en condiciones secas y mojadas. Y al combinar el estimulante desempeño en la capa de rodamiento optimizado que reduce el ruido, es probable que se vuelva adicto a las carreteras. • El diseño espectacular y deportivo que esta llanta ofrece, cautiva desde el primer momento</p>
+									</section>
 								</div>
 							</div>
-							<hr class="thick">
-							<div class="box-detalle col-xs-12">
-								<div class="buscar-detalle">
-									Buscar Resultados en otra ciudad
-								</div>
-								<div class="row">
-									<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
-										<div class="form-group col-sm-4">
-											<select name="marcas" size="1">
-												<option value="0" selected>Región</option>
-												<option value="1">Bridgestone</option>
-												<option value="2">Pirelli</option>
-												<option value="3">Michelin</option>
-												<option value="18">Fuzion</option>
-												<option value="19">Sonar</option>
-												<option value="20">Goodride</option>
-												<option value="21">Ling Long</option>
-											</select>
-										</div>
-										<div class="form-group col-sm-4">
-											<select name="marcas" size="1">
-												<option value="0" selected>Comuna</option>
-												<option value="1">Bridgestone</option>
-												<option value="2">Pirelli</option>
-												<option value="3">Michelin</option>
-												<option value="4">Continental</option>
-												<option value="5">Firestone</option>
-												<option value="6">Kumho</option>
-											</select>
-										</div>
-										<div class="form-group col-sm-4">
-											<button type="submit" class="buscar">Ver Resultados</button>
-										</div>
-									</form>
-								</div>
-							</div>
-							<div class="ads">
-								<div class="ads-728 hidden-xs hidden-md">ads</div>
-								<div class="ads-468 hidden-xs hidden-sm hidden-lg">ads</div>
-								<div class="ads-320 hidden-sm hidden-md hidden-lg">ads</div>
-							</div>
-							<div class="ads">
-								<div class="ads-728 hidden-xs hidden-md">ads</div>
-								<div class="ads-468 hidden-xs hidden-sm hidden-lg">ads</div>
-								<div class="ads-320 hidden-sm hidden-md hidden-lg">ads</div>
-							</div>
-							<section id="description" class="hidden-lg hidden-md">
-								<header>
-								<h2>Neumáticos 205/55 R16 en Santiago</h2></header>
-								<p>
-								Al fin una llanta que permite a los conductores de cualquier vehículo, en cualquier carretera, maximizar el placer de conducir. Desde el momento en que cambie de velocidad y de vuelta al volante, la RE760 Sport entra en acción dándole una rápida respuesta y precisión en el control. Quedará impresionado con su poderoso agarre y estabilidad en condiciones secas y mojadas. Y al combinar el estimulante desempeño en la capa de rodamiento optimizado que reduce el ruido, es probable que se vuelva adicto a las carreteras. • El diseño espectacular y deportivo que esta llanta ofrece, cautiva desde el primer momento</p>
-							</section>
 						</div>
 					</div>
 				</div>
@@ -491,30 +531,15 @@
 							<div class="container-fluid">
 								<div class="row">
 									<div class="col-md-12">
-										<div class="row">
-											<div class="facebook form-right col-xs-4"><a href="#"><i class="fa fa-facebook" style="font-size: 20px;"></i><span class="hidden-xs"> Facebook</span></a></div>
-											<div class="twitter form-center col-xs-4"><a href="#"><i class="fa fa-twitter" style="font-size: 20px;"></i><span class="hidden-xs"> Twitter</span></a></div>
-											<div class="google form-left col-xs-4"><a href="#"><i class="fa fa-google-plus" style="font-size: 20px;"></i><span class="hidden-xs"> Google</span></a></div>
-										</div>
-										<div class="center borde-registrar col-md-12">
-											O
-										</div>
-										<form role="form" id="form-contact-agent" method="post"  class="clearfix">
+										<form role="form" id="form-contact" method="post" class="clearfix">
 											<div class="form-group">
-												<div class="input-group" data-validate="email">
-													<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-													<input type="text" class="form-control" name="validate-email" id="validate-email" placeholder="Validate Email" required>
-													<span class="input-group-addon danger"><span class="glyphicon glyphicon-remove"></span></span>
-												</div>
+												<label for="exampleInputEmail1">Email</label>
+												<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Ingresar email">
 											</div>
 											<div class="form-group">
-												<div class="input-group">
-													<span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
-													<input type="password" class="form-control" name="validate-text" id="validate-text" placeholder="Validate Text" required>
-													<span class="input-group-addon danger"><span class="glyphicon glyphicon-remove"></span></span>
-												</div>
+												<label for="exampleInputPassword1">Contraseña</label>
+												<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Ingresar contraseña">
 											</div>
-											<button type="submit" class="btn buscar" disabled>Ingresar</button>
 											<div class="row">
 												<div class="mb10l top col-md-5 col-sm-5 col-xs-5">
 													<div class="checkbox">
@@ -527,7 +552,12 @@
 													<a href="#">No recuerdo mi clave</a>
 												</div>
 											</div>
+											<button type="submit" class="buscar col-md-12" style="width: 100%;" data-toggle="modal" data-target=".cotizar" id="form-contact-submit">Ingresar</button>
 										</form>
+										<div class="center col-md-12">
+											 - o -
+										</div>
+										<div class="btn-detalles facebook col-md-12"><a href="#"><i class="fa fa-facebook-square" style="font-size: 20px;"></i>  Ingresar con Facebook</a></div>
 										<div class="center borde-registrar col-md-12">
 											¿No tienes cuenta?
 										</div>
@@ -741,6 +771,23 @@
 			});
 		</script>
 		<!-- /.rango precio -->
+			<!-- /rango precio -->	
+			<script>
+				$(function() {
+					$("#colapsable-range").slider({
+						range: true,
+						min: 0,
+						max: 500,
+						values: [0, 500],
+						slide: function(event, ui) {
+							$("#colapsable").val("$" + ui.values[ 0 ] + " a $" + ui.values[ 1 ] + " pesos");
+						}
+					});
+					
+					$( "#colapsable" ).val("$" + $("#colapsable-range").slider("values", 0) + " a $" + $("#slider-range").slider( "values", 1) + " pesos");
+				});
+			</script>
+			<!-- /.rango precio -->
 		<!-- /.face -->
 		<div id="fb-root"></div>
 		<script>(function(d, s, id) {
@@ -751,9 +798,5 @@
 			fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));</script>
 		<!-- /.face -->
-		</script>
-		<!-- validador -->
-		<script type="text/javascript" src="assets/js/validador.js"></script>
-		<!-- validador -->
 	</body>
 </html>

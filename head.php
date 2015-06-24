@@ -38,6 +38,7 @@
 		<link rel="stylesheet" href="assets/css/owl.transitions.css" type="text/css">
 		<link rel="stylesheet" href="assets/css/style.css" type="text/css">
 		<link rel="stylesheet" href="assets/yamm/yamm.css" type="text/css">
+		<link rel="stylesheet" href="assets/css/validador.css" type="text/css">
 		<!-- /<link rel="icon" type="image/png" href="assets/img/favicon.png">-->
 		<title>Zoner | Properties Listing</title>
 	</head>

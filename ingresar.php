@@ -18,14 +18,32 @@
 				</div>
 				<div class="container">
 					<header><h1>Ingresar</h1></header>
-					<div class="box-ingreso col-md-4 col-sm-6 col-md-offset-4 col-sm-offset-3" style="padding: 20px 15px;">
-						<form role="form" id="form-contact" method="post" class="clearfix">
+					
+					<div class="col-md-4 col-sm-6 col-md-offset-4 col-sm-offset-3" style="padding: 20px 15px;">
+						<div class="row">
+								<div class="facebook form-right col-xs-4"><a href="#"><i class="fa fa-facebook" style="font-size: 20px;"></i><span class="hidden-xs"> Facebook</span></a></div>
+								<div class="twitter form-center col-xs-4"><a href="#"><i class="fa fa-twitter" style="font-size: 20px;"></i><span class="hidden-xs"> Twitter</span></a></div>
+								<div class="google form-left col-xs-4"><a href="#"><i class="fa fa-google-plus" style="font-size: 20px;"></i><span class="hidden-xs"> Google</span></a></div>
+						</div>
+						<div class="center borde-registrar col-md-12">
+							O
+						</div>
+						<form role="form" id="form-contact-agent" method="post"  class="clearfix">
 							<div class="form-group">
-								<input type="email" class="form-control" id="form-contact-email" name="form-contact-email" placeholder="Ingresa tu correo electrónico" required>
+								<div class="input-group" data-validate="email">
+									<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+									<input type="text" class="form-control" name="validate-email" id="validate-email" placeholder="Validate Email" required>
+									<span class="input-group-addon danger"><span class="glyphicon glyphicon-remove"></span></span>
+								</div>
 							</div>
 							<div class="form-group">
-								<input type="password" class="form-control" id="contraseña" placeholder="Ingresa tu contraseña" required>
+								<div class="input-group">
+									<span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+									<input type="password" class="form-control" name="validate-text" id="validate-text" placeholder="Validate Text" required>
+									<span class="input-group-addon danger"><span class="glyphicon glyphicon-remove"></span></span>
+								</div>
 							</div>
+							<button type="submit" class="btn buscar" disabled>Ingresar</button>
 							<div class="row">
 								<div class="mb10l top col-md-5 col-sm-5 col-xs-5">
 									<div class="checkbox">
@@ -38,16 +56,7 @@
 									<a href="#">No recuerdo mi clave</a>
 								</div>
 							</div>
-							<button type="submit" class="buscar col-md-12" style="width: 100%;" id="form-contact-submit">Ingresar</button>
 						</form>
-						<div class="center col-md-12">
-							- o -
-						</div>
-						<div class="btn-detalles facebook col-md-12"><a href="#"><i class="fa fa-facebook-square" style="font-size: 20px;"></i>  Ingresar con Facebook</a></div>
-						<div class="center borde-registrar col-md-12">
-							¿No tienes cuenta?
-						</div>
-						<div class="btn-detalles crear col-md-12"><a href="#" data-toggle="modal" data-target=".registrarse"><i class="fa fa-plus" style="font-size: 20px;"></i>  Crear una cuenta</a></div>
 					</div>
 				</div>
 			</div>
@@ -153,5 +162,8 @@
 				}
 			});
 		</script>
+		<!-- validador -->
+		<script type="text/javascript" src="assets/js/validador.js"></script>
+		<!-- validador -->
 	</body>
 </html>

@@ -73,7 +73,7 @@
 														<section id="sidebar">
 															<aside id="edit-search">
 																<form role="form" id="form-sidebar" class="form-search" action="properties-listing.html">
-																	<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-right: 6px;">
+																	<div class="form-group form-right col-xs-4" style="padding-right: 6px;">
 																		<select name="marcas" size="3">
 																			<option value="0" selected>Ancho</option>
 																			<option value="1">Bridgestone</option>
@@ -99,7 +99,7 @@
 																			<option value="21">Ling Long</option>
 																		</select>
 																	</div>
-																	<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-right: 3px; padding-left: 3px;">
+																	<div class="form-group form-center col-xs-4" style="padding-right: 3px; padding-left: 3px;">
 																		<select name="marcas" size="1">
 																			<option value="0" selected>Perfil</option>
 																			<option value="1">Bridgestone</option>
@@ -125,7 +125,7 @@
 																			<option value="21">Ling Long</option>
 																		</select>
 																	</div>
-																	<div class="form-group col-md-4 col-sm-4 col-xs-4" style="padding-left: 6px;">
+																	<div class="form-group form-left col-xs-4" style="padding-left: 6px;">
 																		<select name="marcas" size="1">
 																			<option value="0" selected>Aro</option>
 																			<option value="1">Bridgestone</option>

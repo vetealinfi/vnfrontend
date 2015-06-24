@@ -20,6 +20,9 @@
 .yamm .collapse,
 .yamm .dropup,
 .yamm .dropdown {
+	-moz-transition: 0.8s;
+	-webkit-transition: 0.8s;
+	transition: 0.8s;
   position: static;
   background-color: rgba(243, 243, 243, 0);
   -webkit-box-shadow: inset 0 0px 0 #ffffff;
@@ -35,16 +38,19 @@
   padding: 20px 30px;
 }
 .yamm .dropdown.yamm-fw .dropdown-menu {
-  -moz-border-radius: 3px;
-  webkit-border-radius: 3px;
-  border-radius: 3px;
+  -moz-transition: 0.8s;
+  -webkit-transition: 0.8s;
+  transition: 0.8s;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
   left: 0;
   right: 0;
   border: 0px;
-  border: 1px solid #E7E7E7;
-  -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
-  background-color: #E7E7E7;
+  border: none;
+  -webkit-box-shadow: 0 6px 7px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 6px 7px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
 }
 .margin-0 {
   margin-bottom: 0px;

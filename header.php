@@ -64,7 +64,7 @@
 														<ul class="dropdown-menu">
 															<li class="grid-demo padding15">
 																<div class="row">
-																	<div class="col-md-3 col-sm-4">
+																	<!-- /<div class="col-md-3 col-sm-4">
 																		<header><h2>Ofertas</h2></header>
 																		<div id="myCarousel" class="carousel slide carrusel-menu" data-ride="carousel">
 																			<div class="carousel-inner">
@@ -72,26 +72,26 @@
 																					<a href="#"><img src="http://placehold.it/254x150/3498db/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 1"></a>
 																					<h4><small>Summer dress floral prints</small></h4>                                        
 																					<button class="btn btn-primary" type="button">49,99 €</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>       
-																				</div><!-- End Item -->
+																				</div>
 																				<div class="item">
 																					<a href="#"><img src="http://placehold.it/254x150/ef5e55/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 2"></a>
 																					<h4><small>Gold sandals with shiny touch</small></h4>                                        
 																					<button class="btn btn-primary" type="button">9,99 €</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>        
-																				</div><!-- End Item -->
+																				</div>
 																				<div class="item">
 																					<a href="#"><img src="http://placehold.it/254x150/2ecc71/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 3"></a>
 																					<h4><small>Denin jacket stamped</small></h4>                                        
 																					<button class="btn btn-primary" type="button">49,99 €</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>      
-																				</div><!-- End Item -->                                
-																			</div><!-- End Carousel Inner -->
-																		</div><!-- /.carousel -->
+																				</div>                                
+																			</div>
+																		</div>
 																		<div class="col-md-12 col-sm-12 ul-menu">
 																			<ul>
 																				<a href="#"><li>Ver más ofertas<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
 																			</ul>
 																		</div>
-																	</div>
-																	<div class="col-md-9 col-sm-8">
+																	</div> -->
+																	<div class="col-md-12">
 																		<header><h2>Marcas de neumáticos</h2></header>
 																		<div class="marca-neumatico">
 																			<a href="marca.php"><img src="assets/img/logo.png" class="img-responsive" alt="brand"></a>
@@ -115,7 +115,7 @@
 															<li class="grid-demo padding15">
 																<div class="row">
 																	<div class="col-md-3 col-sm-3">
-																		<header><h2>Zona Norte</h2></header>
+																		<header><h2>Neumáticos Zona Norte</h2></header>
 																		<div class="col-md-12 col-sm-12 ul-menu">
 																			<ul>
 																				<a href="lista-vendedores.php"><li>Arica<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
@@ -133,7 +133,7 @@
 																		</div>
 																	</div>
 																	<div class="col-md-3 col-sm-3">
-																		<header><h2>Zona Centro</h2></header>
+																		<header><h2>Neumáticos Zona Centro</h2></header>
 																		<div class="col-md-12 col-sm-12 ul-menu">
 																			<ul>
 																				<a href="lista-vendedores.php"><li>Arica<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
@@ -151,7 +151,7 @@
 																		</div>
 																	</div>
 																	<div class="col-md-3 col-sm-3">
-																		<header><h2>Zona Sur</h2></header>
+																		<header><h2>Neumáticos Zona Sur</h2></header>
 																		<div class="col-md-12 col-sm-12 ul-menu">
 																			<ul>
 																				<a href="lista-vendedores.php"><li>Arica<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
@@ -169,22 +169,20 @@
 																		</div>
 																	</div>
 																	<div class="col-md-3 col-sm-3">
-																		<header><h2>Buscar en Mapa</h2></header>
-																		<ul>
-																			<li class="dropdown-header">Accessories</li>
-																			<li><a href="#">Default Navbar</a></li>
-																			<li><a href="#">Lovely Fonts</a></li>
-																			<li><a href="#">Responsive Dropdown </a></li>							
-																			<li class="divider"></li>
-																			<li class="dropdown-header">Newsletter</li>
-																			<form class="form" role="form">
-																				<div class="form-group">
-																					<label class="sr-only" for="email">Email address</label>
-																					<input type="email" class="form-control" id="email" placeholder="Enter email">                                                              
-																				</div>
-																				<button type="submit" class="buscar">Buscar en mapa</button>
-																			</form>                                                       
-																		</ul>
+																		<header><h2>Neumáticos específicos</h2></header>
+																		<div class="col-md-12 col-sm-12 ul-menu">
+																			<ul>
+																				<a href="lista-vendedores.php"><li><div class="imagen-auto neumatico-especifico"></div>Autos<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li><div class="imagen-moto neumatico-especifico"></div> Motos<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li><div class="imagen-camioneta neumatico-especifico"></div>Camionetas<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li><div class="imagen-camion neumatico-especifico"></div>Camiónes<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li><div class="imagen-agricola neumatico-especifico"></div>Agrícolas<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li><div class="imagen-forestal neumatico-especifico"></div>Forestales<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li><div class="imagen-bus neumatico-especifico"></div>Buses<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li><div class="imagen-horquilla neumatico-especifico"></div>Horquillas<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li><div class="imagen-maquinaria neumatico-especifico"></div>Maquinarias<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																			</ul>
+																		</div>
 																	</div>
 																</div>
 															</li>
@@ -195,10 +193,76 @@
 														<ul class="dropdown-menu">
 															<li class="grid-demo padding15">
 																<div class="row">
-																	<div class="col-sm-3">.col-sm-3</div>
-																	<div class="col-sm-3">.col-sm-3</div>
-																	<div class="col-sm-3">.col-sm-3</div>
-																	<div class="col-sm-3">.col-sm-3</div>
+																	<div class="col-md-3 col-sm-3">
+																		<header><h2>Talleres Zona Norte</h2></header>
+																		<div class="col-md-12 col-sm-12 ul-menu">
+																	<ul>
+																		<a href="lista-vendedores.php"><li>Arica<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																		<a href="lista-vendedores.php"><li>Parinacota<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																		<a href="lista-vendedores.php"><li>Iquique<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																		<a href="lista-vendedores.php"><li>Tamarugal<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																		<a href="lista-vendedores.php"><li>Antofagasta<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																		<a href="lista-vendedores.php"><li>Tocopilla<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																		<a href="lista-vendedores.php"><li>Copiapó<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																		<a href="lista-vendedores.php"><li>Chañaral<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																		<a href="lista-vendedores.php"><li>Huasco<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																		<a href="lista-vendedores.php"><li>Elqui<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																		<a href="lista-vendedores.php"><li>Choapa<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																	</ul>
+																		</div>
+																	</div>
+																	<div class="col-md-3 col-sm-3">
+																		<header><h2>Talleres Zona Centro</h2></header>
+																		<div class="col-md-12 col-sm-12 ul-menu">
+																			<ul>
+																				<a href="lista-vendedores.php"><li>Arica<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Parinacota<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Iquique<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Tamarugal<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Antofagasta<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Tocopilla<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Copiapó<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Chañaral<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Huasco<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Elqui<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Choapa<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																			</ul>
+																		</div>
+																	</div>
+																	<div class="col-md-3 col-sm-3">
+																		<header><h2>Talleres Zona Sur</h2></header>
+																		<div class="col-md-12 col-sm-12 ul-menu">
+																			<ul>
+																				<a href="lista-vendedores.php"><li>Arica<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Parinacota<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Iquique<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Tamarugal<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Antofagasta<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Tocopilla<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Copiapó<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Chañaral<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Huasco<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Elqui<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Choapa<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																			</ul>
+																		</div>
+																	</div>
+																	<div class="col-md-3 col-sm-3">
+																		<header><h2>Talleres por Servicios</h2></header>
+																		<div class="col-md-12 col-sm-12 ul-menu">
+																			<ul>
+																				<a href="lista-vendedores.php"><li>Frenos<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Afinamiento<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Tren Delantero<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Amortiguadores<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Neumáticos<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Batería<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Limpieza de Inyectores<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Grúas Horquilla<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																				<a href="lista-vendedores.php"><li>Maquinaria Pesada<span class="glyphicon glyphicon-chevron-right pull-right flecha"></span></li></a>
+																			</ul>
+																		</div>
+																	</div>
 																</div>
 															</li>
 														</ul>
